@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Dec 2025 19:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 20:07:09 +0000</lastBuildDate>
     <item>
       <title>Windsurf Next 1.2.106</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.2.106</link>
@@ -136,14 +136,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.6.106#1.6.106</guid>
       <category>Changelog</category>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.6.110</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.6.110</link>
-      <description>&lt;p&gt;&lt;strong&gt;Improvements&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Enabled Cascade to wait for background commands to finish when querying command status.&lt;/li&gt;&lt;li&gt;Auto-Generate Memories toggle in settings.When enabled, Cascade will autonomously generate memories to remember important context.When disabled, Cascade will only create memories when you explicitly ask.&lt;/li&gt;&lt;li&gt;When enabled, Cascade will autonomously generate memories to remember important context.&lt;/li&gt;&lt;li&gt;When disabled, Cascade will only create memories when you explicitly ask.&lt;/li&gt;&lt;li&gt;Bug fixes in SSH extension (when RemoteCommand was enabled)&lt;/li&gt;&lt;li&gt;Redesigned the terminal tool step. Inputs can be sent to the terminal via "Open terminal".&lt;/li&gt;&lt;li&gt;Underlined links are now clickable in Cascade and user messages.&lt;/li&gt;&lt;li&gt;New conversation screen now has a new toolbar for tools like MCP and Preview.&lt;/li&gt;&lt;li&gt;Cascade input is persisted across new conversation screen and an active conversation.&lt;/li&gt;&lt;li&gt;Cascade now has a quick table of contents of all past user messagesNew ability to revert or scroll to any past message&lt;/li&gt;&lt;li&gt;New ability to revert or scroll to any past message&lt;/li&gt;&lt;li&gt;Added support for custom SSH paths&lt;/li&gt;&lt;li&gt;Add workspace search as context to Windsurf Tab&lt;/li&gt;&lt;li&gt;Adds auto generate commit messages in Source Control Panel&lt;/li&gt;&lt;li&gt;New Rules and Memories panel in Cascade&lt;/li&gt;&lt;li&gt;Improvements to long conversation performance&lt;/li&gt;&lt;li&gt;Two new app icons (for Mac)&lt;/li&gt;&lt;li&gt;Support for SSE-based MCP&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.6.110#1.6.110</guid>
-      <category>Changelog</category>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.6.111</title>
