@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Dec 2025 18:07:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 19:06:10 +0000</lastBuildDate>
     <item>
       <title>Windsurf 1.0.2</title>
       <link>https://windsurf.com/changelog#1.0.2</link>
@@ -243,28 +243,12 @@
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf 1.6.4</title>
-      <link>https://windsurf.com/changelog#1.6.4</link>
-      <description>&lt;h3&gt;GPT 4.1 Available&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;New GPT 4.1 Model available and Free (Limited Time)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Windsurf now supports the new GPT 4.1 model, which is free for all users&lt;/li&gt;&lt;li&gt;Usage in Windsurf is free for a limited time from April 14th to April 21st&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.6.4#1.6.4</guid>
-      <category>Changelog</category>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf 1.6.5</title>
       <link>https://windsurf.com/changelog#1.6.5</link>
       <description>&lt;h3&gt;o4-mini Available&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;New o4-mini models available and Free (Limited Time)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Windsurf now supports the o4-mini medium and o4-mini high models, which are free for all users&lt;/li&gt;&lt;li&gt;Usage in Windsurf is free for a limited time from April 16th to April 21st&lt;/li&gt;&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://windsurf.com/changelog#1.6.5#1.6.5</guid>
       <category>Changelog</category>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf 1.7.0</title>
-      <link>https://windsurf.com/changelog#1.7.0</link>
-      <description>&lt;h3&gt;Updated &amp; Simplified Pricing&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;We're getting rid of Flow Action Credits&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;We're simplifying our pricing model by removing Flow Action Credits&lt;/li&gt;&lt;li&gt;Change takes effect April 21st, 2025&lt;/li&gt;&lt;li&gt;Plans now come with prompt credits with add-on credits available for purchase&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;User Prompt Credits&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Plans now come with prompt credits, which are consumed per every message sent and not via every tool call&lt;/li&gt;&lt;li&gt;Add-on credits are available for purchase&lt;/li&gt;&lt;li&gt;Auto-top off (with max limits) can be enabled via profile&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Existing Plans&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Existing plans are migrating over to the new pricing model&lt;/li&gt;&lt;li&gt;For more information, please visit thePricing page&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.7.0#1.7.0</guid>
-      <category>Changelog</category>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.7.1</title>
