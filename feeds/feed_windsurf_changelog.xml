@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jan 2026 05:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 06:09:06 +0000</lastBuildDate>
     <item>
       <title>Windsurf 1.0.2</title>
       <link>https://windsurf.com/changelog#1.0.2</link>
@@ -89,14 +89,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog#1.1.3#1.1.3</guid>
       <category>Changelog</category>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf 1.2.1</title>
-      <link>https://windsurf.com/changelog#1.2.1</link>
-      <description>&lt;h3&gt;Cascade Memories, Web Search and Docs&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Web and Docs Search&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cascade can now search the web! There are a couple of ways to use this:Automatically: Simply ask a query that needs a live internet search and Cascade will trigger web search automatically.URL Input: Paste in a URL and Cascade will use your URL as context (works well with blog posts, docs, articles, public GitHub files, etc.).@web: If you prefer to explicitly ask Cascade to search the web, use the@webcommand.@docs: Cascade can search through some popular documentation sites, including Windsurf's own help docs!&lt;/li&gt;&lt;li&gt;Automatically: Simply ask a query that needs a live internet search and Cascade will trigger web search automatically.&lt;/li&gt;&lt;li&gt;URL Input: Paste in a URL and Cascade will use your URL as context (works well with blog posts, docs, articles, public GitHub files, etc.).&lt;/li&gt;&lt;li&gt;@web: If you prefer to explicitly ask Cascade to search the web, use the@webcommand.&lt;/li&gt;&lt;li&gt;@docs: Cascade can search through some popular documentation sites, including Windsurf's own help docs!&lt;/li&gt;&lt;li&gt;Web tools like search and URL reading can be enabled and disabled via the Windsurf Settings panel in the bottom right of your status bar.&lt;/li&gt;&lt;li&gt;A web search is 1 flow action credit and the resulting URL page reads are additional credits.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Cascade Auto-Generated Memories&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cascade can now automatically generate memories to retain context between conversations&lt;/li&gt;&lt;li&gt;You can prompt Cascade to create a memory at any time if you want it to remember key context&lt;/li&gt;&lt;li&gt;Memories are visible in the Memories Panel, which is accessible when Cascade makes a memory or through the command palette&lt;/li&gt;&lt;li&gt;Memories can be deleted from the Memories Panel&lt;/li&gt;&lt;li&gt;Memories do not cost any flow action credits to generate&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Improvements to Dev Container Support (Beta)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dev Container support for Windows is now in beta&lt;/li&gt;&lt;li&gt;UI T...</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.2.1#1.2.1</guid>
-      <category>Changelog</category>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.2.2</title>
