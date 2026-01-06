@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Jan 2026 16:07:51 +0000</lastBuildDate>
-    <item>
-      <title>Scaling Analysis Without Scaling the Team</title>
-      <link>https://dagster.io/blog/scaling-analysis-without-scaling-the-team</link>
-      <description>Learn how to maximize the impact of your data stack with a lean teamâkeeping your analysts at the heart of every decision.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/scaling-analysis-without-scaling-the-team</guid>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 17:10:05 +0000</lastBuildDate>
     <item>
       <title>How Compass Turns Questions Into Queries</title>
       <link>https://dagster.io/blog/how-compass-turns-questions-into-queries</link>
@@ -99,6 +92,13 @@
       <description>This post introduces a custom async executor for Dagster that enables high-concurrency fan-out, async-native libraries, and incremental adoption, without changing how runs are launched or monitored.</description>
       <guid isPermaLink="false">https://dagster.io/blog/when-sync-isnt-enough</guid>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Enforce Data Quality at Every Stage: A Practical Guide to Catching Issues Before They Cost You</title>
+      <link>https://dagster.io/blog/how-to-enforce-data-quality-at-every-stage-a-practical-guide-to-catching-issues-before-they-cost-you</link>
+      <description>This post gives you a framework for enforcing data quality at every stage so you catch issues early, maintain trust, and build platforms that actually work in production.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/how-to-enforce-data-quality-at-every-stage-a-practical-guide-to-catching-issues-before-they-cost-you</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
