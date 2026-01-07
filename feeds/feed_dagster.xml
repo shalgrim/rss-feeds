@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jan 2026 20:08:07 +0000</lastBuildDate>
-    <item>
-      <title>How Compass Turns Questions Into Queries</title>
-      <link>https://dagster.io/blog/how-compass-turns-questions-into-queries</link>
-      <description>Go behind the scenes of Compass, Dagsterâs analyst copilot, to see how it transforms plain-language questions into precise, optimized SQL queries. Learn how each step of the query-generation process helps analysts move faster and stay focused on insights.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/how-compass-turns-questions-into-queries</guid>
-      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 21:06:33 +0000</lastBuildDate>
     <item>
       <title>Dagster 1.12: Monster Mash</title>
       <link>https://dagster.io/blog/dagster-1-12-monster-mash</link>
@@ -99,6 +92,13 @@
       <description>This post gives you a framework for enforcing data quality at every stage so you catch issues early, maintain trust, and build platforms that actually work in production.</description>
       <guid isPermaLink="false">https://dagster.io/blog/how-to-enforce-data-quality-at-every-stage-a-practical-guide-to-catching-issues-before-they-cost-you</guid>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating Model Behavior Through Chess</title>
+      <link>https://dagster.io/blog/evaluating-model-behavior-through-chess</link>
+      <description>Benchmarks measure outcomes, not behavior. By letting AI models play chess in repeatable tournaments, we can observe how they handle risk, repetition, and long-term objectives, revealing patterns that static evals hide.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/evaluating-model-behavior-through-chess</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
