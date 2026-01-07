@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jan 2026 18:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 19:08:22 +0000</lastBuildDate>
     <item>
       <title>How Compass Turns Questions Into Queries</title>
       <link>https://dagster.io/blog/how-compass-turns-questions-into-queries</link>
