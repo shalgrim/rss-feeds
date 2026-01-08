@@ -13,7 +13,7 @@
       <link>https://anthropic.com/feed_anthropic_red.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jan 2026 06:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 07:08:47 +0000</lastBuildDate>
     <item>
       <title>Cyber Toolkits for LLMs</title>
       <link>https://red.anthropic.com/2025/cyber-toolkits/index.html</link>
@@ -113,6 +113,19 @@
                     'capable' and 'completely robust' remains wide.</description>
       <guid isPermaLink="false">https://red.anthropic.com/2025/project-vend-2/</guid>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experimenting with AI to Defend Critical Infrastructure</title>
+      <link>https://red.anthropic.com/2026/critical-infrastructure-defense/</link>
+      <description>AI could help defenders of critical infrastructure identify the vulnerabilities that attackers
+                        might
+                        exploit—and close them before they are exploited. Anthropic has partnered with Pacific Northwest
+                        National Laboratory (PNNL) to explore this defensive application of AI, demonstrating both the
+                        potential of AI-accelerated defense and the value of public-private partnerships in harnessing
+                        AI
+                        for national security.</description>
+      <guid isPermaLink="false">https://red.anthropic.com/2026/critical-infrastructure-defense/</guid>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
