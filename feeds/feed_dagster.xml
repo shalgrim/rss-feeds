@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jan 2026 16:08:13 +0000</lastBuildDate>
-    <item>
-      <title>Dagster 1.12: Monster Mash</title>
-      <link>https://dagster.io/blog/dagster-1-12-monster-mash</link>
-      <description>A refined Dagster experience. Faster navigation, GA Components, plug-and-play deployment, improved orchestration with FreshnessPolicies, and a new Support Center for builders at scale.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/dagster-1-12-monster-mash</guid>
-      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Jan 2026 17:09:11 +0000</lastBuildDate>
     <item>
       <title>Introducing Our New eBook: Scaling Data Teams</title>
       <link>https://dagster.io/blog/introducing-our-new-ebook-scaling-data-teams</link>
@@ -99,6 +92,13 @@
       <description>Benchmarks measure outcomes, not behavior. By letting AI models play chess in repeatable tournaments, we can observe how they handle risk, repetition, and long-term objectives, revealing patterns that static evals hide.</description>
       <guid isPermaLink="false">https://dagster.io/blog/evaluating-model-behavior-through-chess</guid>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dignified Python: 10 Rules to Improve your LLM Agents</title>
+      <link>https://dagster.io/blog/dignified-python-10-rules-to-improve-your-llm-agents</link>
+      <description>Modern LLMs generate patterns, not principles. Dignified Python gives agents the intent they lack, ensuring code is explicit, consistent, and engineered with care. Here are ten rules from our Claude prompt.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/dignified-python-10-rules-to-improve-your-llm-agents</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
