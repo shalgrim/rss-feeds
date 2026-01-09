@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jan 2026 21:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 22:05:45 +0000</lastBuildDate>
     <item>
       <title>Societal Impacts</title>
       <link>https://www.anthropic.com/research/team/societal-impacts</link>
@@ -145,6 +145,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/bloom</guid>
       <category>Research</category>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jan 9, 2026AlignmentNext-generation Constitutional Classifiers: More efficient protection against universal jailbreaks</title>
+      <link>https://www.anthropic.com/research/next-generation-constitutional-classifiers</link>
+      <description>Jan 9, 2026AlignmentNext-generation Constitutional Classifiers: More efficient protection against universal jailbreaks</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/next-generation-constitutional-classifiers</guid>
+      <category>Research</category>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
