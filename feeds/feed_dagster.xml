@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Jan 2026 15:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 16:09:22 +0000</lastBuildDate>
     <item>
       <title>Introducing Our New eBook: Scaling Data Teams</title>
       <link>https://dagster.io/blog/introducing-our-new-ebook-scaling-data-teams</link>
@@ -81,9 +81,9 @@
     </item>
     <item>
       <title>How to Enforce Data Quality at Every Stage: A Practical Guide to Catching Issues Before They Cost You</title>
-      <link>https://dagster.io/blog/how-to-enforce-data-quality-at-every-stage-a-practical-guide-to-catching-issues-before-they-cost-you</link>
+      <link>https://dagster.io/blog/how-to-enforce-data-quality-at-every-stage</link>
       <description>This post gives you a framework for enforcing data quality at every stage so you catch issues early, maintain trust, and build platforms that actually work in production.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/how-to-enforce-data-quality-at-every-stage-a-practical-guide-to-catching-issues-before-they-cost-you</guid>
+      <guid isPermaLink="false">https://dagster.io/blog/how-to-enforce-data-quality-at-every-stage</guid>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
