@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Jan 2026 23:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 00:17:09 +0000</lastBuildDate>
     <item>
       <title>Windsurf 1.0.2</title>
       <link>https://windsurf.com/changelog#1.0.2</link>
@@ -16,14 +16,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog#1.0.2#1.0.2</guid>
       <category>Changelog</category>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf 1.0.3</title>
-      <link>https://windsurf.com/changelog#1.0.3</link>
-      <description>&lt;h3&gt;Improvements &amp; fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Minor fixes to Cascade&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.0.3#1.0.3</guid>
-      <category>Changelog</category>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.0.4</title>
@@ -49,14 +41,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog#1.0.6#1.0.6</guid>
       <category>Changelog</category>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf 1.0.7</title>
-      <link>https://windsurf.com/changelog#1.0.7</link>
-      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;h3&gt;Misc&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Fixes for some crashes for some users&lt;/li&gt;&lt;li&gt;Fixed bug where changing Cascade models would toggle the mode to Chat only&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.0.7#1.0.7</guid>
-      <category>Changelog</category>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.1.0</title>
@@ -115,14 +99,6 @@
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf 1.2.5</title>
-      <link>https://windsurf.com/changelog#1.2.5</link>
-      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Fixes&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fixed tool calls errors, specifically around invalid tool calls by the model&lt;/li&gt;&lt;li&gt;Fixed Web Search setting unavailable message option&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;New Models&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cascade now has a new premium model available: Gemini 2.0 FlashGemini 2.0 Flash takes 0.25 user prompt credits on every message and 0.25 flow action credits on each tool call&lt;/li&gt;&lt;li&gt;Gemini 2.0 Flash takes 0.25 user prompt credits on every message and 0.25 flow action credits on each tool call&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.2.5#1.2.5</guid>
-      <category>Changelog</category>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf 1.2.6</title>
       <link>https://windsurf.com/changelog#1.2.6</link>
       <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Fixes&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fixed issues with partial credits when transitioning to flex credits&lt;/li&gt;&lt;/ul&gt;</description>
@@ -163,28 +139,12 @@
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf 1.3.11</title>
-      <link>https://windsurf.com/changelog#1.3.11</link>
-      <description>&lt;p&gt;&lt;strong&gt;Patch Fixes&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fixes crashes due to permissions errors on Ubuntu 24.04&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.3.11#1.3.11</guid>
-      <category>Changelog</category>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf 1.4.3</title>
       <link>https://windsurf.com/changelog#1.4.3</link>
       <description>&lt;p&gt;&lt;strong&gt;Windsurf Previews, Auto-Linter, and new MCP servers&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Windsurf Previews (Beta)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cascade will now let you preview locally run websites in your IDE or in your browser.&lt;/li&gt;&lt;li&gt;You can select React and HTML element(s) within the preview to send to Cascade as context.&lt;/li&gt;&lt;li&gt;This context will be included in your Cascade conversation so you no longer need to copy-paste or send screenshots.&lt;/li&gt;&lt;li&gt;You can also send console errors to Cascade as context.&lt;/li&gt;&lt;li&gt;A Windsurf Preview can be activated by asking Cascade to start your web application or through the Website tools icon in the toolbar above conversation input.&lt;/li&gt;&lt;li&gt;A preview can be shown in the IDE or in a new browser on Chrome, Arc, and Chromium based browsers.&lt;/li&gt;&lt;li&gt;Can be turned off via Windsurf Settings.&lt;/li&gt;&lt;li&gt;Available to all plans and costs no credits.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Cascade Auto-Linter&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cascade now auto-lints proposed code changes it has made.&lt;/li&gt;&lt;li&gt;If an output from a code edit proposes a lint error, Cascade will automatically fix it in a subsequent edit.&lt;/li&gt;&lt;li&gt;Fixes to lints are available to all plans and the Cascade edit step to fix the lints costs no credits.&lt;/li&gt;&lt;li&gt;For example, if Cascade made 4 lint errors in a step, Cascade will try to fix the 4 lint errors at no credit charge.&lt;/li&gt;&lt;li&gt;Disclaimer: The LLM decides when its purely fixing lints and when to not charge a credit.&lt;/li&gt;&lt;li&gt;Can be turned off via Windsurf Settings.&lt;/li&gt;&lt;li&gt;Available to all plans.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;New MCP Server Integration&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You can now setup Cascade to make tool calls to trusted MCP servers.&lt;/li&gt;&lt;li&gt;A list of common MCP servers can be found in the new Windsurf Settings Page.&lt;/li&gt;&lt;li&gt;Brand new UX to make it easier to add and configure MCP servers.&lt;/li&gt;&lt;li&gt;A user-configurable JSON is still available via the Settings page.&lt;/li&gt;&lt;li&gt;Available to Pro and Pro Ultimate plans, with support to Teams and Enterprise plans coming so...</description>
       <guid isPermaLink="false">https://windsurf.com/changelog#1.4.3#1.4.3</guid>
       <category>Changelog</category>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf 1.4.4</title>
-      <link>https://windsurf.com/changelog#1.4.4</link>
-      <description>&lt;p&gt;&lt;strong&gt;Patch Fixes&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fixes to Windsurf Previews where certain routes would not load.&lt;/li&gt;&lt;li&gt;Fixes to open Cascade shortcuts (cmd/ctrl+shift+L)&lt;/li&gt;&lt;li&gt;Re-added new settings configs to new settings panel (proxy settings, index size)&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.4.4#1.4.4</guid>
-      <category>Changelog</category>
-      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.4.6</title>
@@ -315,28 +275,12 @@
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf 1.9.1</title>
-      <link>https://windsurf.com/changelog#1.9.1</link>
-      <description>&lt;h3&gt;SWE-1 Improvements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Adds multi-modal (image) support to SWE-1&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.9.1#1.9.1</guid>
-      <category>Changelog</category>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf 1.9.2</title>
       <link>https://windsurf.com/changelog#1.9.2</link>
       <description>&lt;h3&gt;Bring your Own Anthropic Key&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;BYOK (Anthropic Key)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You can now bring your own API Key from Anthropic to use the Claude 4 Sonnet, Claude 4 Sonnet (Thinking), Claude 4 Opus, and Claude 4 Opus (Thinking) models in Cascade&lt;/li&gt;&lt;li&gt;To use BYOK, go toprovide API keysand input your key&lt;/li&gt;&lt;li&gt;Once entered, go back to Windsurf and reload the window. You should now be able to use the new models&lt;/li&gt;&lt;li&gt;This is only available for Free and Pro users at this time&lt;/li&gt;&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://windsurf.com/changelog#1.9.2#1.9.2</guid>
       <category>Changelog</category>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf 1.9.4</title>
-      <link>https://windsurf.com/changelog#1.9.4</link>
-      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Fixed Cascade and terminal integration issues for Mac and Linux users&lt;/li&gt;&lt;li&gt;Merged upstream changes from VS Code 1.99.3&lt;/li&gt;&lt;li&gt;Improvements to import behavior during onboarding&lt;/li&gt;&lt;li&gt;Fixed shadow with the App Icon on Mac&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.9.4#1.9.4</guid>
-      <category>Changelog</category>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.10.1</title>
@@ -377,14 +321,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog#1.10.6#1.10.6</guid>
       <category>Changelog</category>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf 1.10.7</title>
-      <link>https://windsurf.com/changelog#1.10.7</link>
-      <description>&lt;h3&gt;Cascade Improvements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Improvements to Cascade reliability&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.10.7#1.10.7</guid>
-      <category>Changelog</category>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.10.8</title>
@@ -441,14 +377,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog#1.12.1#1.12.1</guid>
       <category>Changelog</category>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf 1.12.2</title>
-      <link>https://windsurf.com/changelog#1.12.2</link>
-      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Minor improvements and bug fixes&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.12.2#1.12.2</guid>
-      <category>Changelog</category>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.12.2</title>
@@ -571,28 +499,12 @@
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf 1.12.25</title>
-      <link>https://windsurf.com/changelog#1.12.25</link>
-      <description>&lt;h3&gt;Patch Fixes and Improvements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Support and fixes for AGENTS.md&lt;/li&gt;&lt;li&gt;Improvements and bug fixes for Codemaps.&lt;/li&gt;&lt;li&gt;Improvements to Fast Context. Enterprises can opt in using the Windsurf Team Settings. Users can toggle Fast Context automatically using "CMD/Ctrl + Enter" on the first message in a chat.&lt;/li&gt;&lt;li&gt;New auto-linting behavior that speeds up Cascade.&lt;/li&gt;&lt;li&gt;Fix for MCP Marketplace not respecting team whitelist options.&lt;/li&gt;&lt;li&gt;Fixes for Jupyter Notebook tool.&lt;/li&gt;&lt;li&gt;Fixes for Memories, Rules, and Workflows.&lt;/li&gt;&lt;li&gt;General bug fixes and improvements.&lt;/li&gt;&lt;li&gt;Performance optimizations and stability enhancements.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Dependencies&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Updated Code OSS to version 1.105.0 (Electron: 37.6.0, Chromium: 138.0.7204.251)&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.12.25#1.12.25</guid>
-      <category>Changelog</category>
-      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf 1.12.27</title>
       <link>https://windsurf.com/changelog#1.12.27</link>
       <description>&lt;h3&gt;Falcon Alpha&lt;/h3&gt;&lt;p&gt;You can now try a new stealth model in Windsurf: Falcon Alpha. Falcon Alpha is a powerful agentic model designed for speed. We're excited to hear what you build with it!&lt;/p&gt;&lt;h3&gt;Patch Fixes and Improvements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Various performance improvements and bug fixes.&lt;/li&gt;&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://windsurf.com/changelog#1.12.27#1.12.27</guid>
       <category>Changelog</category>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf 1.12.28</title>
-      <link>https://windsurf.com/changelog#1.12.28</link>
-      <description>&lt;h3&gt;Features&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Expanded Codemaps&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Codemaps now include powerful new capabilities:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Chat with map- Interact directly with your codebase visualizations&lt;/li&gt;&lt;li&gt;Mermaid diagrams- Generate visual diagrams within maps for better code understanding&lt;/li&gt;&lt;li&gt;Cascade suggestions- Get AI-powered suggestions directly in your maps&lt;/li&gt;&lt;li&gt;Map option in chat/edit nudges- Easily create maps from chat and edit interactions&lt;/li&gt;&lt;li&gt;Smart mode option- Enhanced intelligent assistance when working with maps&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Cascade Summarization Fix&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Improved Cascade summarization to better handle longer conversations. Previously, summaries could be too aggressive and drop important context. Now maintains better continuity across long sessions with multiple file changes and user messages.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MCP Enhancements&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Path component handling- Improved support for MCP URLs with path components (e.g., Smithery MCPs)&lt;/li&gt;&lt;li&gt;OAuth flow improvements- Better OAuth flow for streamable HTTP MCPs&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Bug fixes and improvements&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Performance Improvements&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sticky scroll lag fixes- Resolved lag spikes when using sticky scroll with Vim bindings&lt;/li&gt;&lt;li&gt;General slowness fixes- Addressed performance issues caused by VSCode OSS update&lt;/li&gt;&lt;li&gt;Terminal rendering optimization- Fixed rendering loop that caused 500ms+ delays on first terminal open&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Terminal Fixes&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;PowerShell improvements- Fixed Windows terminal integration edge cases where commands would appear stuck&lt;/li&gt;&lt;li&gt;Shell theme compatibility- Resolved edge cases with custom shell themes (zsh, fish, powerlevel10k, etc.) that could cause Windsurf to break or show stuck commands&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Editor Stability&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Terminal freeze fix- Fixed an issue where the editor would freeze when opening the terminal&lt;/li&gt;&lt;li&gt;CMD+J fix- Resolved layout thrashing issue when opening terminal...</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.12.28#1.12.28</guid>
-      <category>Changelog</category>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.12.31</title>
@@ -681,14 +593,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog#1.12.47#1.12.47</guid>
       <category>Changelog</category>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf 1.13.3</title>
-      <link>https://windsurf.com/changelog#1.13.3</link>
-      <description>&lt;h3&gt;Wave 13: Merry Shipmas&lt;/h3&gt;&lt;p&gt;Wave 13 brings first-class support for parallel, multi-agent sessions in Windsurf, along with Git worktrees, side-by-side Cascade panes, and a dedicated terminal profile for more reliable agent execution.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;SWE-1.5 Free&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Our near-frontier model, SWE-1.5, is now available for free to all users for the next 3 months. SWE-1.5 Free has the full intelligence of SWE-1.5, with the same coding performance on SWE-Bench-Pro, but delivered at standard throughput speeds. The original variant of SWE-1.5 hosted on Cerebras will continue to be available for paid users. SWE-1.5 Free will replace SWE-1 as the default model in Windsurf starting today.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Git Worktree Support&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Windsurf now supports Git worktrees, letting you spawn multiple Cascade sessions in the same repository without conflicts. Git worktrees check out different branches into separate directories while sharing the same Git history.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Multi-Cascade Panes &amp; Tabs&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You can already run multiple Cascade sessions in Windsurf at the same time. Now, you can view and interact with them in separate panes and tabs within the same window. This lets you monitor progress and compare outputs of sessions side-by-side, or even turn Windsurf into a big Cascade dashboard.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Cascade Dedicated Terminal (Beta)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Windsurf introduces a new approach for letting agents execute terminal commands. Instead of your default shell, Cascade will now run commands in a dedicated zsh shell specifically configured for reliability. The Cascade Dedicated Terminal can use the environment variables you set in your .zshrc configuration and is interactive, which means you can answer any prompts from shell scripts without having to break your flow. This should improve the reliability and speed of shell commands, especially for users with complicated prompts (e.g., powerlevel10k).&lt;/p&gt;&lt;p&gt;In this version, the Cascade Dedicated Te...</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog#1.13.3#1.13.3</guid>
-      <category>Changelog</category>
-      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.13.5</title>
