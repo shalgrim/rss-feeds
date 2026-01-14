@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Jan 2026 18:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 19:07:06 +0000</lastBuildDate>
     <item>
       <title>Codeium Beta Launch</title>
       <link>https://windsurf.com/blog/beta-launch-announcement</link>
@@ -1469,6 +1469,17 @@
       <guid isPermaLink="false">https://windsurf.com/blog/windsurf-wave-13</guid>
       <category>product</category>
       <pubDate>Wed, 24 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.2-Codex is now available in Windsurf!</title>
+      <link>https://windsurf.com/blog/gpt-5-2-codex</link>
+      <description>GPT-5.2-Codex is now available in Windsurf with multiple reasoning effort levels. For a limited time, enjoy discounts on credit usage.</description>
+      <guid isPermaLink="false">https://windsurf.com/blog/gpt-5-2-codex</guid>
+      <category>product</category>
+      <category>company</category>
+      <category>openai</category>
+      <category>windsurf</category>
+      <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
