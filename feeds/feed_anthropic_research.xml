@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jan 2026 10:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 11:05:40 +0000</lastBuildDate>
     <item>
       <title>Societal Impacts</title>
       <link>https://www.anthropic.com/research/team/societal-impacts</link>
@@ -73,14 +73,6 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/introspection</guid>
       <category>Research</category>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nov 12, 2025PolicyProject Fetch: Can Claude train a robot dog?</title>
-      <link>https://www.anthropic.com/research/project-fetch-robot-dog</link>
-      <description>Nov 12, 2025PolicyProject Fetch: Can Claude train a robot dog?</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/project-fetch-robot-dog</guid>
-      <category>Research</category>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nov 21, 2025AlignmentFrom shortcuts to sabotage: natural emergent misalignment from reward hacking</title>
@@ -151,6 +143,14 @@
       <link>https://www.anthropic.com/research/anthropic-economic-index-january-2026-report</link>
       <description>Jan 15, 2026Economic ResearchAnthropic Economic Index report: economic primitives</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/anthropic-economic-index-january-2026-report</guid>
+      <category>Research</category>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jan 15, 2026Economic ResearchAnthropic Economic Index: new building blocks for understanding AI use</title>
+      <link>https://www.anthropic.com/research/economic-index-primitives</link>
+      <description>Jan 15, 2026Economic ResearchAnthropic Economic Index: new building blocks for understanding AI use</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/economic-index-primitives</guid>
       <category>Research</category>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
