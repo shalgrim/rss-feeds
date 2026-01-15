@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jan 2026 21:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 22:06:30 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1325,6 +1325,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/introducing-anthropic-labs</guid>
       <category>Announcements</category>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How scientists are using Claude to accelerate research and discovery</title>
+      <link>https://www.anthropic.com/news/accelerating-scientific-research</link>
+      <description>How scientists are using Claude to accelerate research and discovery</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/accelerating-scientific-research</guid>
+      <category>Case Study</category>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
