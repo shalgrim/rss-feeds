@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jan 2026 14:09:26 +0000</lastBuildDate>
-    <item>
-      <title>Introducing Our New eBook: Scaling Data Teams</title>
-      <link>https://dagster.io/blog/introducing-our-new-ebook-scaling-data-teams</link>
-      <description>Learn how real data teams, from solo practitioners to enterprise-scale organizations, build in Dagsterâs new eBook, Scaling Data Teams.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/introducing-our-new-ebook-scaling-data-teams</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 15:08:16 +0000</lastBuildDate>
     <item>
       <title>Your Data Team Shouldn't Be a Help Desk: Use Compass with Your Data</title>
       <link>https://dagster.io/blog/compass-now-available</link>
@@ -99,6 +92,13 @@
       <description>Modern LLMs generate patterns, not principles. Dignified Python gives agents the intent they lack, ensuring code is explicit, consistent, and engineered with care. Here are ten rules from our Claude prompt.</description>
       <guid isPermaLink="false">https://dagster.io/blog/dignified-python-10-rules-to-improve-your-llm-agents</guid>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your GTM Data, Finally Untangled</title>
+      <link>https://dagster.io/blog/your-gtm-data-finally-untangled</link>
+      <description>Compass now connects directly to your go-to-market tools, letting you ask questions about pipeline, ad spend, and sales conversations in Slack without exporting CSVs or waiting on the data team.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/your-gtm-data-finally-untangled</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
