@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jan 2026 09:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 10:06:25 +0000</lastBuildDate>
     <item>
       <title>Societal Impacts</title>
       <link>https://www.anthropic.com/research/team/societal-impacts</link>
@@ -73,14 +73,6 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/introspection</guid>
       <category>Research</category>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nov 4, 2025AlignmentCommitments on model deprecation and preservation</title>
-      <link>https://www.anthropic.com/research/deprecation-commitments</link>
-      <description>Nov 4, 2025AlignmentCommitments on model deprecation and preservation</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/deprecation-commitments</guid>
-      <category>Research</category>
-      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nov 12, 2025PolicyProject Fetch: Can Claude train a robot dog?</title>
@@ -153,6 +145,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/next-generation-constitutional-classifiers</guid>
       <category>Research</category>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jan 15, 2026Economic ResearchAnthropic Economic Index report: economic primitives</title>
+      <link>https://www.anthropic.com/research/anthropic-economic-index-january-2026-report</link>
+      <description>Jan 15, 2026Economic ResearchAnthropic Economic Index report: economic primitives</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/anthropic-economic-index-january-2026-report</guid>
+      <category>Research</category>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
