@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jan 2026 08:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 09:12:21 +0000</lastBuildDate>
     <item>
       <title>Windsurf 1.0.2</title>
       <link>https://windsurf.com/changelog#1.0.2</link>
@@ -185,6 +185,14 @@
       <guid isPermaLink="false">https://windsurf.com/changelog#1.4.4#1.4.4</guid>
       <category>Changelog</category>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windsurf 1.4.6</title>
+      <link>https://windsurf.com/changelog#1.4.6</link>
+      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Fixes crashes around MCP misconfiguration&lt;/li&gt;&lt;li&gt;Fixes around web search for Sonnet 3.7&lt;/li&gt;&lt;li&gt;Fixes for proxy settings&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">https://windsurf.com/changelog#1.4.6#1.4.6</guid>
+      <category>Changelog</category>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.5.6</title>
@@ -371,6 +379,14 @@
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Windsurf 1.10.7</title>
+      <link>https://windsurf.com/changelog#1.10.7</link>
+      <description>&lt;h3&gt;Cascade Improvements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Improvements to Cascade reliability&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">https://windsurf.com/changelog#1.10.7#1.10.7</guid>
+      <category>Changelog</category>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Windsurf 1.10.8</title>
       <link>https://windsurf.com/changelog#1.10.8</link>
       <description>&lt;h3&gt;Linux Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Fixes to RHEL 8 Support&lt;/li&gt;&lt;/ul&gt;</description>
@@ -393,6 +409,14 @@
       <guid isPermaLink="false">https://windsurf.com/changelog#1.11.1#1.11.1</guid>
       <category>Changelog</category>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windsurf 1.11.2</title>
+      <link>https://windsurf.com/changelog#1.11.2</link>
+      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Minor improvements and bug fixes&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">https://windsurf.com/changelog#1.11.2#1.11.2</guid>
+      <category>Changelog</category>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.11.3</title>
@@ -515,6 +539,14 @@
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Windsurf 1.12.16</title>
+      <link>https://windsurf.com/changelog#1.12.16</link>
+      <description>&lt;h3&gt;Codemaps&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Codemaps is a beta feature for codebase understanding and navigation. Open the codemaps pane to try it out!&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Fixes to Cascade to reduce internal errors.&lt;/li&gt;&lt;li&gt;Fixes to Cascade not seeing terminal output.&lt;/li&gt;&lt;li&gt;Various other bug fixes and stability improvements.&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">https://windsurf.com/changelog#1.12.16#1.12.16</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Windsurf 1.12.18</title>
       <link>https://windsurf.com/changelog#1.12.18</link>
       <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Fixes issue with custom MCP servers not being displayed correctly in the new MCP panel.&lt;/li&gt;&lt;li&gt;Improvements and bug fixes for the beta Codemaps feature.&lt;/li&gt;&lt;li&gt;Fixes issue where some bash commands would get stuck.&lt;/li&gt;&lt;li&gt;Fixes issue where certain models couldn't create or edit Jupyter notebooks.&lt;/li&gt;&lt;li&gt;General bug fixes and improvements.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -529,6 +561,14 @@
       <guid isPermaLink="false">https://windsurf.com/changelog#1.12.20#1.12.20</guid>
       <category>Changelog</category>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windsurf 1.12.21</title>
+      <link>https://windsurf.com/changelog#1.12.21</link>
+      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Resolved issues affecting SSH remote connections with high resource usage.&lt;/li&gt;&lt;li&gt;Fix certain models seeing increased error rates on editing files.&lt;/li&gt;&lt;li&gt;Improved diagnostics for third party extensions.&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">https://windsurf.com/changelog#1.12.21#1.12.21</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf 1.12.25</title>
