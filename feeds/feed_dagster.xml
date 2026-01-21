@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Jan 2026 15:10:26 +0000</lastBuildDate>
-    <item>
-      <title>Your Data Team Shouldn't Be a Help Desk: Use Compass with Your Data</title>
-      <link>https://dagster.io/blog/compass-now-available</link>
-      <description>Compass now supports every major data warehouse. Connect your own data and get AI-powered answers directly in Slack, with your governance intact and your data staying exactly where it is.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/compass-now-available</guid>
-      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Jan 2026 16:11:11 +0000</lastBuildDate>
     <item>
       <title>When (and When Not) to Optimize Data Pipelines</title>
       <link>https://dagster.io/blog/when-and-when-not-to-optimize-data-pipelines</link>
@@ -99,6 +92,13 @@
       <description>Compass now connects directly to your go-to-market tools, letting you ask questions about pipeline, ad spend, and sales conversations in Slack without exporting CSVs or waiting on the data team.</description>
       <guid isPermaLink="false">https://dagster.io/blog/your-gtm-data-finally-untangled</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dagster + Snowflake: Building Production AI Pipelines with Cortex</title>
+      <link>https://dagster.io/blog/dagster-snowflake-cortex</link>
+      <description>Snowflake handles AI compute while Dagster handles orchestration, observability, and the operational patterns that turn AI experiments into reliable production pipelines.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/dagster-snowflake-cortex</guid>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
