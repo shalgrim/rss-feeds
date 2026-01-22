@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Jan 2026 16:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 17:12:04 +0000</lastBuildDate>
     <item>
       <title>When (and When Not) to Optimize Data Pipelines</title>
       <link>https://dagster.io/blog/when-and-when-not-to-optimize-data-pipelines</link>
@@ -26,7 +26,7 @@
     <item>
       <title>Orchestrating Nanochat: Training the Models</title>
       <link>https://dagster.io/blog/orchestrating-nanochat-training-the-models</link>
-      <description>Training an LLM isnât one jobâitâs a sequence of carefully managed stages. This part shows how Dagster coordinates your training steps on RunPod so every experiment is reproducible, scalable, and GPU-efficient.</description>
+      <description>Training an LLM isn’t one job—it’s a sequence of carefully managed stages. This part shows how Dagster coordinates your training steps on RunPod so every experiment is reproducible, scalable, and GPU-efficient.</description>
       <guid isPermaLink="false">https://dagster.io/blog/orchestrating-nanochat-training-the-models</guid>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Orchestrating Nanochat: Deploying the Model</title>
       <link>https://dagster.io/blog/orchestrating-nanochat-deploying-the-model</link>
-      <description>Once the model is trained, the final step is getting it into usersâ hands. This guide walks through turning your model into a fast, reliable RunPod endpointâcomplete with orchestration and automated updates from Dagster.</description>
+      <description>Once the model is trained, the final step is getting it into users’ hands. This guide walks through turning your model into a fast, reliable RunPod endpoint—complete with orchestration and automated updates from Dagster.</description>
       <guid isPermaLink="false">https://dagster.io/blog/orchestrating-nanochat-deploying-the-model</guid>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>When Sync Isnât Enough</title>
+      <title>When Sync Isn’t Enough</title>
       <link>https://dagster.io/blog/when-sync-isnt-enough</link>
       <description>This post introduces a custom async executor for Dagster that enables high-concurrency fan-out, async-native libraries, and incremental adoption, without changing how runs are launched or monitored.</description>
       <guid isPermaLink="false">https://dagster.io/blog/when-sync-isnt-enough</guid>
