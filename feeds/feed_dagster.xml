@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Jan 2026 18:09:13 +0000</lastBuildDate>
-    <item>
-      <title>When (and When Not) to Optimize Data Pipelines</title>
-      <link>https://dagster.io/blog/when-and-when-not-to-optimize-data-pipelines</link>
-      <description>Engineers often optimize the wrong parts of their pipelines, here's a profiling-first framework to identify real bottlenecks and avoid the premature optimization trap.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/when-and-when-not-to-optimize-data-pipelines</guid>
-      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 19:10:42 +0000</lastBuildDate>
     <item>
       <title>Orchestrating Nanochat: Building the Tokenizer</title>
       <link>https://dagster.io/blog/orchestrating-nanochat-building-the-tokenizer</link>
@@ -99,6 +92,13 @@
       <description>Snowflake handles AI compute while Dagster handles orchestration, observability, and the operational patterns that turn AI experiments into reliable production pipelines.</description>
       <guid isPermaLink="false">https://dagster.io/blog/dagster-snowflake-cortex</guid>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pytest for Agent-Generated Code: Concrete Testing Strategies to Put Into Practice</title>
+      <link>https://dagster.io/blog/pytest-for-agent-generated-code-concrete-testing-strategies-to-put-into-practice</link>
+      <description>When agents write tests, intent matters as much as correctness. By defining clear testing levels, preferred patterns, and explicit anti-patterns, we give agents the structure they need to produce fast, reliable Pytest suites that scale with automation.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/pytest-for-agent-generated-code-concrete-testing-strategies-to-put-into-practice</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
