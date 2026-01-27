@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 05:11:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 06:09:02 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1365,6 +1365,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/claude-new-constitution</guid>
       <category>Announcements</category>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic partners with the UK Government to bring AI assistance to GOV.UK services</title>
+      <link>https://www.anthropic.com/news/gov-UK-partnership</link>
+      <description>Anthropic partners with the UK Government to bring AI assistance to GOV.UK services</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/gov-UK-partnership</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
