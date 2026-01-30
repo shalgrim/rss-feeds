@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jan 2026 19:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 20:08:48 +0000</lastBuildDate>
     <item>
       <title>Codeium Beta Launch</title>
       <link>https://windsurf.com/blog/beta-launch-announcement</link>
@@ -1480,6 +1480,14 @@
       <category>openai</category>
       <category>windsurf</category>
       <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wave 14: Arena Mode - May the Best Model Win</title>
+      <link>https://windsurf.com/blog/windsurf-wave-14</link>
+      <description>Arena Mode brings side-by-side model comparison directly into your IDE, plus Plan Mode and Megaplan for smarter task planning.</description>
+      <guid isPermaLink="false">https://windsurf.com/blog/windsurf-wave-14</guid>
+      <category>product</category>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
