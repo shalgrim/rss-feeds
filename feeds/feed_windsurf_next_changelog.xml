@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Jan 2026 09:09:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 10:06:11 +0000</lastBuildDate>
     <item>
       <title>Windsurf Next 1.2.106</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.2.106</link>
@@ -64,14 +64,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.3.107#1.3.107</guid>
       <category>Changelog</category>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.3.109</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.3.109</link>
-      <description>&lt;h3&gt;New operating system support&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Beta support for Windows ARM64&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.3.109#1.3.109</guid>
-      <category>Changelog</category>
-      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.3.110</title>
@@ -138,14 +130,6 @@
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf Next 1.6.110</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.6.110</link>
-      <description>&lt;p&gt;&lt;strong&gt;Improvements&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Enabled Cascade to wait for background commands to finish when querying command status.&lt;/li&gt;&lt;li&gt;Auto-Generate Memories toggle in settings.When enabled, Cascade will autonomously generate memories to remember important context.When disabled, Cascade will only create memories when you explicitly ask.&lt;/li&gt;&lt;li&gt;When enabled, Cascade will autonomously generate memories to remember important context.&lt;/li&gt;&lt;li&gt;When disabled, Cascade will only create memories when you explicitly ask.&lt;/li&gt;&lt;li&gt;Bug fixes in SSH extension (when RemoteCommand was enabled)&lt;/li&gt;&lt;li&gt;Redesigned the terminal tool step. Inputs can be sent to the terminal via "Open terminal".&lt;/li&gt;&lt;li&gt;Underlined links are now clickable in Cascade and user messages.&lt;/li&gt;&lt;li&gt;New conversation screen now has a new toolbar for tools like MCP and Preview.&lt;/li&gt;&lt;li&gt;Cascade input is persisted across new conversation screen and an active conversation.&lt;/li&gt;&lt;li&gt;Cascade now has a quick table of contents of all past user messagesNew ability to revert or scroll to any past message&lt;/li&gt;&lt;li&gt;New ability to revert or scroll to any past message&lt;/li&gt;&lt;li&gt;Added support for custom SSH paths&lt;/li&gt;&lt;li&gt;Add workspace search as context to Windsurf Tab&lt;/li&gt;&lt;li&gt;Adds auto generate commit messages in Source Control Panel&lt;/li&gt;&lt;li&gt;New Rules and Memories panel in Cascade&lt;/li&gt;&lt;li&gt;Improvements to long conversation performance&lt;/li&gt;&lt;li&gt;Two new app icons (for Mac)&lt;/li&gt;&lt;li&gt;Support for SSE-based MCP&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.6.110#1.6.110</guid>
-      <category>Changelog</category>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf Next 1.6.111</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.6.111</link>
       <description>&lt;p&gt;&lt;strong&gt;Updates&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;UI Fixes and updates&lt;/li&gt;&lt;li&gt;Cascade icon returned in upper corner&lt;/li&gt;&lt;li&gt;Improvements to terminal output rendering in Cascade&lt;/li&gt;&lt;/ul&gt;</description>
@@ -170,28 +154,12 @@
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf Next 1.6.114</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.6.114</link>
-      <description>&lt;p&gt;&lt;strong&gt;Bug Fixes and Improvements&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fixed sound on startup&lt;/li&gt;&lt;li&gt;Fixed issues around adding rules&lt;/li&gt;&lt;li&gt;Fixed generate project with Cascade entry point&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.6.114#1.6.114</guid>
-      <category>Changelog</category>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf Next 1.6.115</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.6.115</link>
       <description>&lt;p&gt;&lt;strong&gt;Bug Fixes and Improvements&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fixed Cascade top menu button click opening file explorer on Windows&lt;/li&gt;&lt;li&gt;Fixed occasional extra space inserted beneath Cascade input&lt;/li&gt;&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.6.115#1.6.115</guid>
       <category>Changelog</category>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.6.116</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.6.116</link>
-      <description>&lt;p&gt;&lt;strong&gt;App Deploys from Windsurf Wave 6&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;App Deploys are now available in Windsurf - Next&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.6.116#1.6.116</guid>
-      <category>Changelog</category>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.6.117</title>
@@ -226,22 +194,6 @@
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf Next 1.6.121</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.6.121</link>
-      <description>&lt;p&gt;&lt;strong&gt;New o4-mini models available and Free (Limited Time)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Windsurf now supports the o4-mini medium and o4-mini high models, which are free for all users&lt;/li&gt;&lt;li&gt;Usage in Windsurf is free for a limited time from April 16th to April 21st&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.6.121#1.6.121</guid>
-      <category>Changelog</category>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.7.100</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.7.100</link>
-      <description>&lt;p&gt;&lt;strong&gt;Updated and Simplified Pricing&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;We're simplifying our pricing model by removing Flow Action Credits&lt;/li&gt;&lt;li&gt;Change takes effect April 21st, 2025&lt;/li&gt;&lt;li&gt;Plans now come with prompt credits with add-on credits available for purchase&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;User Prompt Credits&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Plans now come with prompt credits, which are consumed per every message sent and not via every tool call&lt;/li&gt;&lt;li&gt;Add-on credits are available for purchase&lt;/li&gt;&lt;li&gt;Auto-top off (with max limits) can be enabled via profile&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Existing Plans&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Existing plans are migrating over to the new pricing model&lt;/li&gt;&lt;li&gt;For more information, please visit thePricing page&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.7.100#1.7.100</guid>
-      <category>Changelog</category>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf Next 1.7.101</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.7.101</link>
       <description>&lt;p&gt;&lt;strong&gt;Experimental Improvements&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bug fixes&lt;/li&gt;&lt;li&gt;Performance optimizations&lt;/li&gt;&lt;li&gt;VS Code 1.98.0 Updates&lt;/li&gt;&lt;/ul&gt;</description>
@@ -256,14 +208,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.7.102#1.7.102</guid>
       <category>Changelog</category>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.7.103</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.7.103</link>
-      <description>&lt;h3&gt;New App Icon &amp; Upgraded Free Tier&lt;/h3&gt;&lt;p&gt;Based on the latest release of the Windsurf Editor, v1.7.2&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.7.103#1.7.103</guid>
-      <category>Changelog</category>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.7.104</title>
@@ -288,22 +232,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.8.102#1.8.102</guid>
       <category>Changelog</category>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.8.103</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.8.103</link>
-      <description>&lt;h3&gt;Teams Features&lt;/h3&gt;&lt;p&gt;Based on the latest release of the Windsurf Editor, v1.8.0&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.8.103#1.8.103</guid>
-      <category>Changelog</category>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.8.105</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.8.105</link>
-      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;p&gt;Based on the latest release of the Windsurf Editor, v1.8.2&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.8.105#1.8.105</guid>
-      <category>Changelog</category>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.8.106</title>
@@ -354,14 +282,6 @@
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf Next 1.10.101</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.10.101</link>
-      <description>&lt;h3&gt;Patch fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Miscellaneous fixes&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.10.101#1.10.101</guid>
-      <category>Changelog</category>
-      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf Next 1.10.103</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.10.103</link>
       <description>&lt;h3&gt;Planning Mode&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Based on the latest release of the Windsurf Editor, v1.10.1&lt;/li&gt;&lt;/ul&gt;</description>
@@ -376,14 +296,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.10.105#1.10.105</guid>
       <category>Changelog</category>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.10.106</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.10.106</link>
-      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Based on the latest release of the Windsurf Editor, v1.10.4&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.10.106#1.10.106</guid>
-      <category>Changelog</category>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.10.107</title>
@@ -426,14 +338,6 @@
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf Next 1.10.113</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.10.113</link>
-      <description>&lt;h3&gt;Patch fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Miscellaneous fixes&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.10.113#1.10.113</guid>
-      <category>Changelog</category>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf Next 1.11.100</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.11.100</link>
       <description>&lt;h3&gt;Speak to Cascade&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Voice&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Users can now speak into the chat rather than having to type things out.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;@-mentioning conversations&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;@-mention the first conversation so Cascade has full context of it as it goes to write tests for you.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Deeper Browser integration&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Chat with Cascade about tabs that are open in the Browser using @-mentions&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;JetBrains improvements&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Planning Mode, Workflows, and file-based Rules are now available for Cascade on JetBrains&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Improvements&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Now you can @-mention terminal in Cascade.&lt;/li&gt;&lt;li&gt;You can turn on the Auto-Continue setting to have Cascade automatically continue its response if it hits a limit.&lt;/li&gt;&lt;li&gt;Support for more MCP servers with easier and more secure authentication by integrating the new Streamable HTTP transport (replaces SSE) and MCP authentication (replaces access tokens or API keys in the config).&lt;/li&gt;&lt;li&gt;Important for enterprise customers who use Windsurf across lots of repos. Now, you can enforce ignore rules across all repositories by placing .codeiumignore in the ~/.codeium/ folder&lt;/li&gt;&lt;/ul&gt;</description>
@@ -474,22 +378,6 @@
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf Next 1.11.105</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.11.105</link>
-      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Performance fixes, especially relating to long chats&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.11.105#1.11.105</guid>
-      <category>Changelog</category>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.12.103</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.12.103</link>
-      <description>&lt;h3&gt;Improvements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Early access to Wave 12 features.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.103#1.12.103</guid>
-      <category>Changelog</category>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf Next 1.12.105</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.12.105</link>
       <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Minor improvements and bug fixes&lt;/li&gt;&lt;/ul&gt;</description>
@@ -506,28 +394,12 @@
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf Next 1.12.109</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.12.109</link>
-      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Minor improvements and bug fixes&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.109#1.12.109</guid>
-      <category>Changelog</category>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf Next 1.12.110</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.12.110</link>
       <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Minor improvements and bug fixes&lt;/li&gt;&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.110#1.12.110</guid>
       <category>Changelog</category>
       <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.12.112</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.12.112</link>
-      <description>&lt;h3&gt;Cascade Improvements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Queued messages in Cascade&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Various improvements and bug fixes&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.112#1.12.112</guid>
-      <category>Changelog</category>
-      <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.12.113</title>
@@ -544,14 +416,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.114#1.12.114</guid>
       <category>Changelog</category>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.12.115</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.12.115</link>
-      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Fix to Cascade slowness issues&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.115#1.12.115</guid>
-      <category>Changelog</category>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.12.117</title>
@@ -586,14 +450,6 @@
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf Next 1.12.124</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.12.124</link>
-      <description>&lt;h3&gt;Lifeguard (Beta) Updates&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Try out Lifeguard by clicking the Lifeguard icon at the top right corner of your editor.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Minor improvements and bug fixes.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.124#1.12.124</guid>
-      <category>Changelog</category>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf Next 1.12.125</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.12.125</link>
       <description>&lt;h3&gt;Experimental Cascade Tool&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Experimental Cascade tool to quickly search for files and find relevant context.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -618,14 +474,6 @@
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windsurf Next 1.12.129</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.12.129</link>
-      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bug fixes and improvements.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.129#1.12.129</guid>
-      <category>Changelog</category>
-      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Windsurf Next 1.12.130</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.12.130</link>
       <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Early preview of Windsurf's new Tab model.&lt;/li&gt;&lt;li&gt;Bug fixes and improvements.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -640,14 +488,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.131#1.12.131</guid>
       <category>Changelog</category>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.12.132</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.12.132</link>
-      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bug fixes and improvements.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.132#1.12.132</guid>
-      <category>Changelog</category>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.12.133</title>
@@ -696,22 +536,6 @@
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.143#1.12.143</guid>
       <category>Changelog</category>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.12.144</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.12.144</link>
-      <description>&lt;h3&gt;Features&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;MCP Improvements&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Loading state indicators: Show loading state per installed MCP to improve visibility during initialization&lt;/li&gt;&lt;li&gt;Refresh only edited MCPs: Whenmcp_config.jsonis modified, only the affected MCP server instance is initialized/refreshed - no other instances are refreshed&lt;/li&gt;&lt;li&gt;Increased initialization timeout: MCP initialization timeout increased to 60s&lt;/li&gt;&lt;li&gt;Refresh button for error states: Show refresh button for MCPs in error state to allow manual recovery&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Cascade Hooks&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Enterprise feature: New Cascade Hooks feature available&lt;/li&gt;&lt;li&gt;Public documentation:Draft documentationwith details and descriptions of hooks available in Windsurf Docs&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Bug Fixes&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Vim extension typing lag: Fixed bug causing typing lag when Vim extension is enabled&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;SWE 1.5 Image Support&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Image understanding: Images are now supported in SWE 1.5, enabling visual content analysis&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.144#1.12.144</guid>
-      <category>Changelog</category>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windsurf Next 1.12.148</title>
-      <link>https://windsurf.com/changelog/windsurf-next#1.12.148</link>
-      <description>&lt;h3&gt;GPT-5.1 and GPT-5.1-Codex&lt;/h3&gt;&lt;p&gt;GPT-5.1 and GPT-5.1-Codex are now available in Windsurf. GPT-5.1 will become the default model in Windsurf for one week, and paid users get free access during this period.&lt;/p&gt;&lt;p&gt;GPT-5.1 and GPT-5.1-Codex deliver a solid upgrade from GPT-5 for agentic coding workflows. They're noticeably better at understanding what you're asking for and working with you to get it done. The new variable thinking feature dynamically adjusts reasoning depth—providing quick responses for simple tasks and more thoughtful analysis when complexity demands it.&lt;/p&gt;&lt;h3&gt;Patch Fixes and Improvements&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Removed Features&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Knowledge Base: Removed the Knowledge Base feature&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Bug Fixes&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;PowerShell + Turbo Mode: Fixed an issue where PowerShell was not running commands when Turbo Mode is enabled&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Shortcuts&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Attach current file to Cascade: New shortcutOption/Alt+Cmd+Lwhen in an editor to attach the current file to Cascade&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.148#1.12.148</guid>
-      <category>Changelog</category>
-      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.12.149</title>
