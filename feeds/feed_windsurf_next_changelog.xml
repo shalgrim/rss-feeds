@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Feb 2026 15:17:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 16:11:44 +0000</lastBuildDate>
     <item>
       <title>Windsurf Next 1.2.106</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.2.106</link>
@@ -120,6 +120,14 @@
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.6.103#1.6.103</guid>
       <category>Changelog</category>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windsurf Next 1.6.105</title>
+      <link>https://windsurf.com/changelog/windsurf-next#1.6.105</link>
+      <description>&lt;p&gt;&lt;strong&gt;Improvements&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Further improvements to the tab completions experience&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Patch fixes&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bug/stability fixes&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.6.105#1.6.105</guid>
+      <category>Changelog</category>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.6.106</title>
@@ -480,6 +488,14 @@
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.103#1.12.103</guid>
       <category>Changelog</category>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windsurf Next 1.12.105</title>
+      <link>https://windsurf.com/changelog/windsurf-next#1.12.105</link>
+      <description>&lt;h3&gt;Patch Fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Minor improvements and bug fixes&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.12.105#1.12.105</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.12.108</title>
@@ -880,6 +896,14 @@
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.13.115#1.13.115</guid>
       <category>Changelog</category>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windsurf Next 1.9544.1018</title>
+      <link>https://windsurf.com/changelog/windsurf-next#1.9544.1018</link>
+      <description>&lt;h3&gt;Bug Fixes and Improvements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Various bug fixes and performance improvements&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.9544.1018#1.9544.1018</guid>
+      <category>Changelog</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Windsurf Next 1.9544.1024</title>
