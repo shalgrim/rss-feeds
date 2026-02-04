@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Feb 2026 11:16:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 12:14:21 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1397,6 +1397,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/apple-xcode-claude-agent-sdk</guid>
       <category>Product</category>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude is a space to think</title>
+      <link>https://www.anthropic.com/news/claude-is-a-space-to-think</link>
+      <description>Claude is a space to think</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-is-a-space-to-think</guid>
+      <category>Announcements</category>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
