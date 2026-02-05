@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Feb 2026 14:20:41 +0000</lastBuildDate>
-    <item>
-      <title>Orchestrating Nanochat: Training the Models</title>
-      <link>https://dagster.io/blog/orchestrating-nanochat-training-the-models</link>
-      <description>Training an LLM isn’t one job—it’s a sequence of carefully managed stages. This part shows how Dagster coordinates your training steps on RunPod so every experiment is reproducible, scalable, and GPU-efficient.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/orchestrating-nanochat-training-the-models</guid>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Feb 2026 15:17:09 +0000</lastBuildDate>
     <item>
       <title>Dagster + Atlan: Real-Time Asset Observability in Your Data Catalog</title>
       <link>https://dagster.io/blog/dagster-atlan-integration</link>
@@ -99,6 +92,13 @@
       <description>Detection isn't the bottleneck anymore. Understanding is. Compass closes the loop by turning Dagster+ operational data into a conversation.</description>
       <guid isPermaLink="false">https://dagster.io/blog/closing-the-dataops-loop-why-we-built-compass-for-dagster</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Great Infrastructure Needs Great Stories: Designing our Children’s Book</title>
+      <link>https://dagster.io/blog/great-infrastructure-needs-great-stories</link>
+      <description>We set out to explain Dagster assets in the simplest possible way: as living characters that wait, react, and change with their dependencies. By designing a children’s book with warmth, visuals, and motion, we rediscovered what makes assets compelling in the first place.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/great-infrastructure-needs-great-stories</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
