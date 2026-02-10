@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Feb 2026 16:26:12 +0000</lastBuildDate>
-    <item>
-      <title>Dagster + Atlan: Real-Time Asset Observability in Your Data Catalog</title>
-      <link>https://dagster.io/blog/dagster-atlan-integration</link>
-      <description>Automatically sync asset materialization events and lineage from Dagster Cloud to Atlan</description>
-      <guid isPermaLink="false">https://dagster.io/blog/dagster-atlan-integration</guid>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Feb 2026 17:26:10 +0000</lastBuildDate>
     <item>
       <title>Data Ingestion Patterns: When to Use Push, Pull, and Poll (With Real Examples)</title>
       <link>https://dagster.io/blog/data-ingestion-patterns-when-to-use-push-pull-and-poll</link>
@@ -99,6 +92,13 @@
       <description>We set out to explain Dagster assets in the simplest possible way: as living characters that wait, react, and change with their dependencies. By designing a children’s book with warmth, visuals, and motion, we rediscovered what makes assets compelling in the first place.</description>
       <guid isPermaLink="false">https://dagster.io/blog/great-infrastructure-needs-great-stories</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating Skills</title>
+      <link>https://dagster.io/blog/evaluating-agent-skills</link>
+      <description>We built a light weight evaluation framework to quantiatively measure the effectiveness of the Dagster Skills, and these are our findings.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/evaluating-agent-skills</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
