@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Feb 2026 20:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 21:10:56 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -311,14 +311,6 @@
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Best practices for coding with agents</title>
-      <link>https://cursor.com/blog/agent-best-practices</link>
-      <description>A comprehensive guide to working with coding agents, from starting with plans to managing context, customizing workflows, and reviewing code.</description>
-      <guid isPermaLink="false">https://cursor.com/blog/agent-best-practices</guid>
-      <category>product</category>
-      <pubDate>Fri, 09 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Scaling long-running autonomous coding</title>
       <link>https://cursor.com/blog/scaling-agents</link>
       <description>We've been experimenting with running coding agents autonomously for weeks at a time.</description>
@@ -389,6 +381,14 @@
       <guid isPermaLink="false">https://cursor.com/blog/increased-agent-usage</guid>
       <category>product</category>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanding our long-running agents research preview</title>
+      <link>https://cursor.com/blog/long-running-agents</link>
+      <description>Long-running agents are now available in the Cursor web app for Ultra, Teams, and Enterprise users.</description>
+      <guid isPermaLink="false">https://cursor.com/blog/long-running-agents</guid>
+      <category>product</category>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
