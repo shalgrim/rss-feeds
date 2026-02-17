@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Feb 2026 23:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 06:22:59 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1461,6 +1461,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/bengaluru-office-partnerships-across-india</guid>
       <category>Announcements</category>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries</title>
+      <link>https://www.anthropic.com/news/anthropic-infosys</link>
+      <description>Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-infosys</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
