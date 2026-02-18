@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Feb 2026 17:25:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 03:03:47 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1047,19 +1047,19 @@
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Enabling Claude Code to work more autonomously</title>
-      <link>https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</link>
-      <description>Enabling Claude Code to work more autonomously</description>
-      <guid isPermaLink="false">https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</guid>
-      <category>Product</category>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Introducing Claude Sonnet 4.5</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
       <category>Announcements</category>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enabling Claude Code to work more autonomously</title>
+      <link>https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</link>
+      <description>Enabling Claude Code to work more autonomously</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</guid>
+      <category>Product</category>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1476,6 +1476,14 @@
       <description>Anthropic and the Government of Rwanda sign MOU for AI in health and education</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-rwanda-mou</guid>
       <category>Announcements</category>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Sonnet 4.6</title>
+      <link>https://www.anthropic.com/news/claude-sonnet-4-6</link>
+      <description>Introducing Claude Sonnet 4.6</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-sonnet-4-6</guid>
+      <category>Product</category>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
