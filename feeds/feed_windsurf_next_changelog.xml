@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Feb 2026 11:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 12:09:05 +0000</lastBuildDate>
     <item>
       <title>Windsurf Next 1.2.106</title>
       <link>https://windsurf.com/changelog/windsurf-next#1.2.106</link>
@@ -952,6 +952,14 @@
       <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.9552.1024#1.9552.1024</guid>
       <category>Changelog</category>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windsurf Next 1.9552.1025</title>
+      <link>https://windsurf.com/changelog/windsurf-next#1.9552.1025</link>
+      <description>&lt;h3&gt;Bug Fixes and Improvements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Fix compatibility with GitHub Pull Requests extension&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">https://windsurf.com/changelog/windsurf-next#1.9552.1025#1.9552.1025</guid>
+      <category>Changelog</category>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
