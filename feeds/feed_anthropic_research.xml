@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Feb 2026 14:21:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 17:26:22 +0000</lastBuildDate>
     <item>
       <title>Societal Impacts</title>
       <link>https://www.anthropic.com/research/team/societal-impacts</link>
@@ -83,14 +83,6 @@
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dec 19, 2025AlignmentIntroducing Bloom: an open source tool for automated behavioral evaluations</title>
-      <link>https://www.anthropic.com/research/bloom</link>
-      <description>Dec 19, 2025AlignmentIntroducing Bloom: an open source tool for automated behavioral evaluations</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/bloom</guid>
-      <category>Research</category>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Jan 9, 2026AlignmentNext-generation Constitutional Classifiers: More efficient protection against universal jailbreaks</title>
       <link>https://www.anthropic.com/research/next-generation-constitutional-classifiers</link>
       <description>Jan 9, 2026AlignmentNext-generation Constitutional Classifiers: More efficient protection against universal jailbreaks</description>
@@ -153,6 +145,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/measuring-agent-autonomy</guid>
       <category>Research</category>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Feb 23, 2026Societal ImpactsAnthropic Education Report: The AI Fluency Index</title>
+      <link>https://www.anthropic.com/research/AI-fluency-index</link>
+      <description>Feb 23, 2026Societal ImpactsAnthropic Education Report: The AI Fluency Index</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/AI-fluency-index</guid>
+      <category>Research</category>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
