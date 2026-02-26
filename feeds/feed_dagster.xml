@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Feb 2026 14:21:54 +0000</lastBuildDate>
-    <item>
-      <title>Orchestrating Nanochat: Deploying the Model</title>
-      <link>https://dagster.io/blog/orchestrating-nanochat-deploying-the-model</link>
-      <description>Once the model is trained, the final step is getting it into users’ hands. This guide walks through turning your model into a fast, reliable RunPod endpoint—complete with orchestration and automated updates from Dagster.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/orchestrating-nanochat-deploying-the-model</guid>
-      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Feb 2026 15:19:11 +0000</lastBuildDate>
     <item>
       <title>How to Build a Data Platform That Actually Scales</title>
       <link>https://dagster.io/blog/how-to-build-a-data-platform-that-actually-scales</link>
@@ -99,6 +92,13 @@
       <description>Learn how Metaxy can be used to build multimodal data pipelines with sample-level granularity on Dagster</description>
       <guid isPermaLink="false">https://dagster.io/blog/building-real-time-interactive-avatars-with-metaxy</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When to Move from Dagster OSS to Dagster+</title>
+      <link>https://dagster.io/blog/when-to-move-from-dagster-oss-to-dagster</link>
+      <description>Dagster OSS is built for builders. But as teams grow, the operational burden of running the platform can quietly consume engineering time. This guide explains when it makes sense to move to Dagster+ and shift your focus back to building data products.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/when-to-move-from-dagster-oss-to-dagster</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
