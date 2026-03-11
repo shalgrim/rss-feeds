@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 22:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 01:35:45 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1549,6 +1549,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/mozilla-firefox-security</guid>
       <category>Policy</category>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sydney will become Anthropic’s fourth office in Asia-Pacific</title>
+      <link>https://www.anthropic.com/news/sydney-fourth-office-asia-pacific</link>
+      <description>Sydney will become Anthropic’s fourth office in Asia-Pacific</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/sydney-fourth-office-asia-pacific</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
