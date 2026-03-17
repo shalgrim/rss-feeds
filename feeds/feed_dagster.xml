@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 12:17:56 +0000</lastBuildDate>
-    <item>
-      <title>How to Enforce Data Quality at Every Stage: A Practical Guide to Catching Issues Before They Cost You</title>
-      <link>https://dagster.io/blog/how-to-enforce-data-quality-at-every-stage</link>
-      <description>This post gives you a framework for enforcing data quality at every stage so you catch issues early, maintain trust, and build platforms that actually work in production.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/how-to-enforce-data-quality-at-every-stage</guid>
-      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 13:33:15 +0000</lastBuildDate>
     <item>
       <title>Evaluating Model Behavior Through Chess</title>
       <link>https://dagster.io/blog/evaluating-model-behavior-through-chess</link>
@@ -99,6 +92,13 @@
       <description>Standardizing on Databricks is a smart strategic move, but consolidation alone does not create a working operating model across teams, tools, and downstream systems. By pairing Databricks and Unity Catalog with Dagster, enterprises can add the coordination layer needed for dependency visibility, end-to-end lineage, and faster, more confident delivery at scale.</description>
       <guid isPermaLink="false">https://dagster.io/blog/unlocking-the-full-value-of-your-databricks</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DataOps with Dagster: A Practical Guide to Building a Reliable Data Platform</title>
+      <link>https://dagster.io/blog/dataops-with-dagster-a-practical-guide-to-building-a-reliable-data-platform</link>
+      <description>DataOps is about building a system that provides visibility into what's happening and control over how it behaves</description>
+      <guid isPermaLink="false">https://dagster.io/blog/dataops-with-dagster-a-practical-guide-to-building-a-reliable-data-platform</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
