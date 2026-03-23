@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 19:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 21:12:50 +0000</lastBuildDate>
     <item>
       <title>Societal Impacts</title>
       <link>https://www.anthropic.com/research/team/societal-impacts</link>
@@ -75,22 +75,6 @@
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Jan 19, 2026InterpretabilityThe assistant axis: situating and stabilizing the character of large language models</title>
-      <link>https://www.anthropic.com/research/assistant-axis</link>
-      <description>Jan 19, 2026InterpretabilityThe assistant axis: situating and stabilizing the character of large language models</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/assistant-axis</guid>
-      <category>Research</category>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jan 28, 2026AlignmentDisempowerment patterns in real-world AI usage</title>
-      <link>https://www.anthropic.com/research/disempowerment-patterns</link>
-      <description>Jan 28, 2026AlignmentDisempowerment patterns in real-world AI usage</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/disempowerment-patterns</guid>
-      <category>Research</category>
-      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Jan 29, 2026AlignmentHow AI assistance impacts the formation of coding skills</title>
       <link>https://www.anthropic.com/research/AI-assistance-coding-skills</link>
       <description>Jan 29, 2026AlignmentHow AI assistance impacts the formation of coding skills</description>
@@ -145,6 +129,30 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/labor-market-impacts</guid>
       <category>Research</category>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mar 23, 2026ScienceVibe physics: The AI grad student</title>
+      <link>https://www.anthropic.com/research/vibe-physics</link>
+      <description>Mar 23, 2026ScienceVibe physics: The AI grad student</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/vibe-physics</guid>
+      <category>Research</category>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mar 23, 2026ScienceLong-running Claude for scientific computing</title>
+      <link>https://www.anthropic.com/research/long-running-Claude</link>
+      <description>Mar 23, 2026ScienceLong-running Claude for scientific computing</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/long-running-Claude</guid>
+      <category>Research</category>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mar 23, 2026ScienceIntroducing our Science Blog</title>
+      <link>https://www.anthropic.com/research/introducing-anthropic-science</link>
+      <description>Mar 23, 2026ScienceIntroducing our Science Blog</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/introducing-anthropic-science</guid>
+      <category>Research</category>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
