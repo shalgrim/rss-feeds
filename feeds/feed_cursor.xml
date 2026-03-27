@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 03:05:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 04:48:31 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -318,16 +318,22 @@
       <pubDate>Fri, 09 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Salesforce accelerates velocity by over 30% and ships higher-quality code with Cursor</title>
+      <link>https://cursor.com/blog/salesforce</link>
+      <guid isPermaLink="false">https://cursor.com/blog/salesforce</guid>
+      <pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA commits 3x more code across 30,000 developers with Cursor</title>
+      <link>https://cursor.com/blog/nvidia</link>
+      <guid isPermaLink="false">https://cursor.com/blog/nvidia</guid>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Box chooses Cursor for enterprise-grade quality, security, and control</title>
       <link>https://cursor.com/blog/box</link>
       <guid isPermaLink="false">https://cursor.com/blog/box</guid>
       <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Stripe rolled out a consistent Cursor experience for 3,000 engineers</title>
-      <link>https://cursor.com/blog/stripe</link>
-      <guid isPermaLink="false">https://cursor.com/blog/stripe</guid>
-      <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The third era of AI software development</title>
@@ -390,12 +396,6 @@
       <guid isPermaLink="false">https://cursor.com/blog/self-summarization</guid>
       <category>research</category>
       <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Money Forward brings Cursor’s coding agents to product, design, and QA</title>
-      <link>https://cursor.com/blog/money-forward</link>
-      <guid isPermaLink="false">https://cursor.com/blog/money-forward</guid>
-      <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Composer 2</title>
