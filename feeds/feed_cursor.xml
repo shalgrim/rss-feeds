@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 17:19:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 18:18:50 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -311,13 +311,6 @@
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Best practices for coding with agents</title>
-      <link>https://cursor.com/blog/agent-best-practices</link>
-      <description>A comprehensive guide to working with coding agents, from starting with plans to managing context, customizing workflows, and reviewing code.</description>
-      <guid isPermaLink="false">https://cursor.com/blog/agent-best-practices</guid>
-      <pubDate>Fri, 09 Jan 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Salesforce accelerates velocity by over 30% and ships higher-quality code with Cursor</title>
       <link>https://cursor.com/blog/salesforce</link>
       <guid isPermaLink="false">https://cursor.com/blog/salesforce</guid>
@@ -347,13 +340,6 @@
       <link>https://cursor.com/blog/planetscale</link>
       <guid isPermaLink="false">https://cursor.com/blog/planetscale</guid>
       <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How technical support at Cursor uses Cursor</title>
-      <link>https://cursor.com/blog/cursor-support</link>
-      <guid isPermaLink="false">https://cursor.com/blog/cursor-support</guid>
-      <category>company</category>
-      <pubDate>Tue, 03 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cursor is now available in JetBrains IDEs</title>
@@ -431,6 +417,13 @@
       <guid isPermaLink="false">https://cursor.com/blog/composer-2-technical-report</guid>
       <category>research</category>
       <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the new Cursor</title>
+      <link>https://cursor.com/blog/cursor-3</link>
+      <description>Cursor 3 is a unified workspace for building software with agents.</description>
+      <guid isPermaLink="false">https://cursor.com/blog/cursor-3</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
