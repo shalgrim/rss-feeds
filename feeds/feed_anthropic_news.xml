@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 18:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 19:28:10 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1573,6 +1573,22 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/claude-partner-network</guid>
       <category>Announcements</category>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian government and Anthropic sign MOU for AI safety and research</title>
+      <link>https://www.anthropic.com/news/australia-MOU</link>
+      <description>Australian government and Anthropic sign MOU for AI safety and research</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/australia-MOU</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute</title>
+      <link>https://www.anthropic.com/news/google-broadcom-partnership-compute</link>
+      <description>Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/google-broadcom-partnership-compute</guid>
+      <category>Announcements</category>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
