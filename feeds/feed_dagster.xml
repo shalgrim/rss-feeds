@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 18:23:06 +0000</lastBuildDate>
-    <item>
-      <title>Your GTM Data, Finally Untangled</title>
-      <link>https://dagster.io/blog/your-gtm-data-finally-untangled</link>
-      <description>Compass now connects directly to your go-to-market tools, letting you ask questions about pipeline, ad spend, and sales conversations in Slack without exporting CSVs or waiting on the data team.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/your-gtm-data-finally-untangled</guid>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 19:29:59 +0000</lastBuildDate>
     <item>
       <title>Dagster + Snowflake: Building Production AI Pipelines with Cortex</title>
       <link>https://dagster.io/blog/dagster-snowflake-cortex</link>
@@ -99,6 +92,13 @@
       <description>How we configure Copybara for bi-directional syncing to enable a hub-and-spoke model for Git repositories</description>
       <guid isPermaLink="false">https://dagster.io/blog/monorepos-the-hub-and-spoke-model-and-copybara</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dagster 1.13: Octopus's Garden</title>
+      <link>https://dagster.io/blog/dagster-1-13-octopuss-garden</link>
+      <description>Dagster skills, partitioned asset checks, state backed components, virtual assets, and stronger integrations.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/dagster-1-13-octopuss-garden</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
