@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 19:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 20:20:56 +0000</lastBuildDate>
     <item>
       <title>Codeium Beta Launch</title>
       <link>https://windsurf.com/blog/beta-launch-announcement</link>
@@ -1602,6 +1602,17 @@
       <category>pricing</category>
       <category>adaptive</category>
       <pubDate>Mon, 06 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windsurf 2.0: Introducing the Agent Command Center and Devin in Windsurf</title>
+      <link>https://windsurf.com/blog/windsurf-2-0</link>
+      <description>Ship more with local and cloud agents working together.</description>
+      <guid isPermaLink="false">https://windsurf.com/blog/windsurf-2-0</guid>
+      <category>product</category>
+      <category>windsurf</category>
+      <category>agent-command-center</category>
+      <category>devin</category>
+      <pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
