@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 16:27:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 17:24:27 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -343,13 +343,6 @@
       <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Training Composer for longer horizons</title>
-      <link>https://cursor.com/blog/self-summarization</link>
-      <guid isPermaLink="false">https://cursor.com/blog/self-summarization</guid>
-      <category>research</category>
-      <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing Composer 2</title>
       <link>https://cursor.com/blog/composer-2</link>
       <description>Frontier-level coding with strong CursorBench results, higher token efficiency, and a faster default variant.</description>
@@ -431,6 +424,13 @@
       <guid isPermaLink="false">https://cursor.com/blog/better-models-ambitious-work</guid>
       <category>research</category>
       <pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keeping the Cursor app stable</title>
+      <link>https://cursor.com/blog/app-stability</link>
+      <guid isPermaLink="false">https://cursor.com/blog/app-stability</guid>
+      <category>research</category>
+      <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
