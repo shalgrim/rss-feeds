@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:38:08 +0000</lastBuildDate>
-    <item>
-      <title>Closing the DataOps Loop: Why We Built Compass for Dagster+</title>
-      <link>https://dagster.io/blog/closing-the-dataops-loop-why-we-built-compass-for-dagster</link>
-      <description>Detection isn't the bottleneck anymore. Understanding is. Compass closes the loop by turning Dagster+ operational data into a conversation.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/closing-the-dataops-loop-why-we-built-compass-for-dagster</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Apr 2026 15:49:34 +0000</lastBuildDate>
     <item>
       <title>Great Infrastructure Needs Great Stories: Designing our Children’s Book</title>
       <link>https://dagster.io/blog/great-infrastructure-needs-great-stories</link>
@@ -99,6 +92,13 @@
       <description>AI agents that only understand business definitions without knowing whether the underlying pipeline actually succeeded are confidently wrong and operational context from the orchestrator is the missing piece.</description>
       <guid isPermaLink="false">https://dagster.io/blog/the-missing-half-of-the-enterprise-context-layer</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing the Dagster+ Terraform Provider</title>
+      <link>https://dagster.io/blog/announcing-the-dagster-terraform-provider</link>
+      <description>The Dagster+ Terraform provider lets platform teams manage deployments, access controls, alerting, and more as code. Define entire environments declaratively, review changes through pull requests, and integrate Dagster+ into your existing infrastructure workflows.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/announcing-the-dagster-terraform-provider</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
