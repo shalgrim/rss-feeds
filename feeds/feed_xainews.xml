@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Nov 2025 01:40:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:43:49 +0000</lastBuildDate>
     <item>
       <title>Announcing Grok</title>
       <link>https://x.ai/news/grok</link>
@@ -134,7 +134,7 @@
       <link>https://x.ai/news/grok-4-fast</link>
       <description>Pushing the Frontier of Cost-Efficient Intelligence</description>
       <guid isPermaLink="false">https://x.ai/news/grok-4-fast</guid>
-      <category>Grok</category>
+      <category>News</category>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -144,6 +144,110 @@
       <guid isPermaLink="false">https://x.ai/news/onegov</guid>
       <category>News</category>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok 4.1</title>
+      <link>https://x.ai/news/grok-4-1</link>
+      <description>Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model picker.</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-4-1</guid>
+      <category>News</category>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok goes Global with KSA</title>
+      <link>https://x.ai/news/grok-goes-global</link>
+      <description>Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-goes-global</guid>
+      <category>News</category>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok 4.1 Fast and Agent Tools API</title>
+      <link>https://x.ai/news/grok-4-1-fast</link>
+      <description>Bringing the next generation of tool-calling agents to the xAI API</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-4-1-fast</guid>
+      <category>News</category>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>xAI and El Salvador Pioneer the World's First Nationwide AI Education Program</title>
+      <link>https://x.ai/news/el-salvador-partnership</link>
+      <description>Announcing Our Transformative Partnership with the Government of El Salvador.</description>
+      <guid isPermaLink="false">https://x.ai/news/el-salvador-partnership</guid>
+      <category>News</category>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok Voice Agent API</title>
+      <link>https://x.ai/news/grok-voice-agent-api</link>
+      <description>Bringing the power of Grok Voice to all developers.</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-voice-agent-api</guid>
+      <category>News</category>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supporting the DOW's mission with AI</title>
+      <link>https://x.ai/news/us-gov-dept-of-war</link>
+      <description>xAI is proud to be selected by the US Department of War to deliver Frontier AI</description>
+      <guid isPermaLink="false">https://x.ai/news/us-gov-dept-of-war</guid>
+      <category>News</category>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok Collections API</title>
+      <link>https://x.ai/news/grok-collections-api</link>
+      <description>State-of-the-art RAG system built directly into our API.</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-collections-api</guid>
+      <category>News</category>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Grok Business and Grok Enterprise</title>
+      <link>https://x.ai/news/grok-business</link>
+      <description>The best assistant in the world is now Enterprise ready.</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-business</guid>
+      <category>News</category>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>xAI Raises $20B Series E</title>
+      <link>https://x.ai/news/series-e</link>
+      <description>xAI is rapidly accelerating its progress in building advanced AI.</description>
+      <guid isPermaLink="false">https://x.ai/news/series-e</guid>
+      <category>News</category>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok Imagine API</title>
+      <link>https://x.ai/news/grok-imagine-api</link>
+      <description>State-of-the-art video generation across quality, cost, and latency.</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-imagine-api</guid>
+      <category>News</category>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>xAI joins SpaceX</title>
+      <link>https://x.ai/news/xai-joins-spacex</link>
+      <description>SpaceX announced today that it has acquired xAI.</description>
+      <guid isPermaLink="false">https://x.ai/news/xai-joins-spacex</guid>
+      <category>News</category>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok Speech to Text and Text to Speech APIs</title>
+      <link>https://x.ai/news/grok-stt-and-tts-apis</link>
+      <description>Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-stt-and-tts-apis</guid>
+      <category>News</category>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok Voice Think Fast 1.0</title>
+      <link>https://x.ai/news/grok-voice-think-fast-1</link>
+      <description>Our most capable voice agent is now available via API.</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-voice-think-fast-1</guid>
+      <category>Grok voice</category>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
