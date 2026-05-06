@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 15:47:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 18:35:34 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1669,6 +1669,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/finance-agents</guid>
       <category>Announcements</category>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Higher usage limits for Claude and a compute deal with SpaceX</title>
+      <link>https://www.anthropic.com/news/higher-limits-spacex</link>
+      <description>Higher usage limits for Claude and a compute deal with SpaceX</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/higher-limits-spacex</guid>
+      <category>Announcements</category>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
