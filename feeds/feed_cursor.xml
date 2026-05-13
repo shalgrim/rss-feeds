@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 19:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 20:37:01 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -438,6 +438,13 @@
       <guid isPermaLink="false">https://cursor.com/blog/may-2026-bugbot-changes</guid>
       <category>product</category>
       <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Development environments for your agents</title>
+      <link>https://cursor.com/blog/cloud-agent-development-environments</link>
+      <guid isPermaLink="false">https://cursor.com/blog/cloud-agent-development-environments</guid>
+      <category>product</category>
+      <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
