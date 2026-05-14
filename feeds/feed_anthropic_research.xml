@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 17:36:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 18:39:18 +0000</lastBuildDate>
     <item>
       <title>Societal Impacts</title>
       <link>https://www.anthropic.com/research/team/societal-impacts</link>
@@ -49,14 +49,6 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/project-vend-2</guid>
       <category>Research</category>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apr 9, 2026PolicyTrustworthy agents in practice</title>
-      <link>https://www.anthropic.com/research/trustworthy-agents</link>
-      <description>Apr 9, 2026PolicyTrustworthy agents in practice</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/trustworthy-agents</guid>
-      <category>Research</category>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Apr 14, 2026AlignmentAutomated Alignment Researchers: Using large language models to scale scalable oversight</title>
@@ -129,6 +121,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/teaching-claude-why</guid>
       <category>Research</category>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 14, 2026Policy2028: Two scenarios for global AI leadership</title>
+      <link>https://www.anthropic.com/research/2028-ai-leadership</link>
+      <description>May 14, 2026Policy2028: Two scenarios for global AI leadership</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/2028-ai-leadership</guid>
+      <category>Research</category>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
