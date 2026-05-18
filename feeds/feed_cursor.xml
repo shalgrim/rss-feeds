@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 15:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 16:59:40 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -324,13 +324,6 @@
       <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How we compare model quality in Cursor</title>
-      <link>https://cursor.com/blog/cursorbench</link>
-      <description>We use a hybrid online-offline eval process to keep our understanding of model quality aligned with what developers actually do.</description>
-      <guid isPermaLink="false">https://cursor.com/blog/cursorbench</guid>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing Composer 2</title>
       <link>https://cursor.com/blog/composer-2</link>
       <description>Frontier-level coding with strong CursorBench results, higher token efficiency, and a faster default variant.</description>
@@ -343,13 +336,6 @@
       <description>Cursor 3 is a unified workspace for building software with agents.</description>
       <guid isPermaLink="false">https://cursor.com/blog/cursor-3</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Better MoE model inference with warp decode</title>
-      <link>https://cursor.com/blog/warp-decode</link>
-      <guid isPermaLink="false">https://cursor.com/blog/warp-decode</guid>
-      <category>research</category>
-      <pubDate>Mon, 06 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bugbot now self-improves with learned rules</title>
@@ -445,6 +431,13 @@
       <guid isPermaLink="false">https://cursor.com/blog/cloud-agent-development-environments</guid>
       <category>product</category>
       <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Composer 2.5</title>
+      <link>https://cursor.com/blog/composer-2-5</link>
+      <description>A substantial improvement in intelligence and behavior over Composer 2, particularly on long-horizon agentic tasks.</description>
+      <guid isPermaLink="false">https://cursor.com/blog/composer-2-5</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
