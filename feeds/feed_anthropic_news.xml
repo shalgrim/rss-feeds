@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 17:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 17:48:10 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1701,6 +1701,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/pwc-expanded-partnership</guid>
       <category>Announcements</category>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic acquires Stainless</title>
+      <link>https://www.anthropic.com/news/anthropic-acquires-stainless</link>
+      <description>Anthropic acquires Stainless</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-acquires-stainless</guid>
+      <category>Announcements</category>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
