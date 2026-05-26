@@ -13,7 +13,7 @@
       <link>https://anthropic.com/engineering/feed_anthropic_engineering.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 18:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 19:40:25 +0000</lastBuildDate>
     <item>
       <title>Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -205,6 +205,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/engineering/april-23-postmortem</guid>
       <category>Engineering</category>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we contain Claude across products</title>
+      <link>https://www.anthropic.com/engineering/how-we-contain-claude</link>
+      <description>As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.\n</description>
+      <guid isPermaLink="false">https://www.anthropic.com/engineering/how-we-contain-claude</guid>
+      <category>Engineering</category>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
