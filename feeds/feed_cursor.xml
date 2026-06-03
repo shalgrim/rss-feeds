@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 15:36:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 17:43:17 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -338,13 +338,6 @@
       <pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Better AI models enable more ambitious work</title>
-      <link>https://cursor.com/blog/better-models-ambitious-work</link>
-      <guid isPermaLink="false">https://cursor.com/blog/better-models-ambitious-work</guid>
-      <category>research</category>
-      <pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Keeping the Cursor app stable</title>
       <link>https://cursor.com/blog/app-stability</link>
       <guid isPermaLink="false">https://cursor.com/blog/app-stability</guid>
@@ -438,6 +431,13 @@
       <guid isPermaLink="false">https://cursor.com/blog/cloud-agent-lessons</guid>
       <category>research</category>
       <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing organizations for Cursor Enterprise</title>
+      <link>https://cursor.com/blog/organizations</link>
+      <guid isPermaLink="false">https://cursor.com/blog/organizations</guid>
+      <category>product</category>
+      <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
