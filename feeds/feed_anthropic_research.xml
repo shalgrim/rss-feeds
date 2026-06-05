@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 17:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 21:32:28 +0000</lastBuildDate>
     <item>
       <title>Societal Impacts</title>
       <link>https://www.anthropic.com/research/team/societal-impacts</link>
@@ -49,14 +49,6 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/project-vend-2</guid>
       <category>Research</category>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apr 29, 2026ScienceEvaluating Claude’s bioinformatics research capabilities with BioMysteryBench</title>
-      <link>https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench</link>
-      <description>Apr 29, 2026ScienceEvaluating Claude’s bioinformatics research capabilities with BioMysteryBench</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench</guid>
-      <category>Research</category>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Apr 30, 2026Societal ImpactsHow people ask Claude for personal guidance</title>
@@ -121,6 +113,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/coding-agents-social-sciences</guid>
       <category>Research</category>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jun 5, 2026ScienceMaking Claude a chemist</title>
+      <link>https://www.anthropic.com/research/making-claude-a-chemist</link>
+      <description>Jun 5, 2026ScienceMaking Claude a chemist</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/making-claude-a-chemist</guid>
+      <category>Research</category>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
