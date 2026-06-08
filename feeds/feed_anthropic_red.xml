@@ -13,7 +13,7 @@
       <link>https://anthropic.com/feed_anthropic_red.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 15:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 17:08:35 +0000</lastBuildDate>
     <item>
       <title>Cyber Toolkits for LLMs</title>
       <link>https://red.anthropic.com/2025/cyber-toolkits/index.html</link>
@@ -201,6 +201,15 @@
                         trends we are seeing in AI-enabled cyber operations.</description>
       <guid isPermaLink="false">https://red.anthropic.com/2026/attack-navigator/</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Measuring LLMs' Impact on N-day Exploits</title>
+      <link>https://red.anthropic.com/2026/n-days/</link>
+      <description>In cybersecurity, a large fraction of real-world harm comes from N-days: vulnerabilities that have
+                    already been publicly disclosed, but only patched on some devices. In this post, we evaluate how
+                    much large language models can accelerate and automate the process of developing N-day exploits.</description>
+      <guid isPermaLink="false">https://red.anthropic.com/2026/n-days/</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
