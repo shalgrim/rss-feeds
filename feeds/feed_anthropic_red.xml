@@ -13,7 +13,7 @@
       <link>https://anthropic.com/feed_anthropic_red.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 17:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 18:42:42 +0000</lastBuildDate>
     <item>
       <title>Cyber Toolkits for LLMs</title>
       <link>https://red.anthropic.com/2025/cyber-toolkits/index.html</link>
@@ -148,14 +148,6 @@
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LLM-discovered 0-days</title>
-      <link>https://red.anthropic.com/2026/zero-days/</link>
-      <description>AI models can now find high-severity vulnerabilities at scale. This is a moment to empower
-                        defenders. We're now using Claude to find and help fix vulnerabilities in open source software.</description>
-      <guid isPermaLink="false">https://red.anthropic.com/2026/zero-days/</guid>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Reverse engineering Claude's CVE-2026-2796 exploit</title>
       <link>https://red.anthropic.com/2026/exploit/</link>
       <description>This post dives deep into how Claude wrote an exploit for one of the vulnerabilities it found in
@@ -189,6 +181,14 @@
                         available.</description>
       <guid isPermaLink="false">https://red.anthropic.com/2026/exploit-evals/</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLM-discovered 0-days</title>
+      <link>https://red.anthropic.com/2026/zero-days/</link>
+      <description>AI models can now find high-severity vulnerabilities at scale. This is a moment to empower
+                        defenders. We're now using Claude to find and help fix vulnerabilities in open source software.</description>
+      <guid isPermaLink="false">https://red.anthropic.com/2026/zero-days/</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mapping AI-enabled cyber threats: Insights from the LLM ATT&amp;CK Navigator</title>
