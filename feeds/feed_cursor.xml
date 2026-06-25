@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 15:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:51:33 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -325,13 +325,6 @@
       <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bootstrapping Composer with autoinstall</title>
-      <link>https://cursor.com/blog/bootstrapping-composer-with-autoinstall</link>
-      <guid isPermaLink="false">https://cursor.com/blog/bootstrapping-composer-with-autoinstall</guid>
-      <category>research</category>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Beyond efficiency: PayPal expands what's possible to build with AI</title>
       <link>https://cursor.com/blog/paypal</link>
       <guid isPermaLink="false">https://cursor.com/blog/paypal</guid>
@@ -424,6 +417,13 @@
       <link>https://cursor.com/blog/coinbase</link>
       <guid isPermaLink="false">https://cursor.com/blog/coinbase</guid>
       <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reward hacking is swamping model intelligence gains</title>
+      <link>https://cursor.com/blog/reward-hacking-coding-benchmarks</link>
+      <guid isPermaLink="false">https://cursor.com/blog/reward-hacking-coding-benchmarks</guid>
+      <category>research</category>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Notion used the Cursor SDK to embed coding agents</title>
