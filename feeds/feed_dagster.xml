@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 12:43:43 +0000</lastBuildDate>
-    <item>
-      <title>Making Dagster Easier to Contribute to in an AI-Driven World</title>
-      <link>https://dagster.io/blog/making-dagster-easier-to-contribute</link>
-      <description>AI has made contributing to open source easier but reviewing contributions is still hard. At Dagster, we’re improving the contributor experience with smarter review tooling, clearer guidelines, and a focus on contributions that are easier to evaluate, merge, and maintain.</description>
-      <guid isPermaLink="false">https://dagster.io/blog/making-dagster-easier-to-contribute</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 13:37:50 +0000</lastBuildDate>
     <item>
       <title>Monorepos, the hub-and-spoke model, and Copybara</title>
       <link>https://dagster.io/blog/monorepos-the-hub-and-spoke-model-and-copybara</link>
@@ -75,7 +68,7 @@
     <item>
       <title>Community Showcase Part 1</title>
       <link>https://dagster.io/blog/community-showcase-part-1</link>
-      <description>Some of the most interesting Dagster projects come from the community. This post highlights creative community-built applications ranging from public data exploration and infrastructure monitoring to research automation and internal tooling, along with why their creators chose Dagster and what building with it was like.</description>
+      <description>Some of the most interesting Dagster projects come from the community. This post highlights creative community-built applications.</description>
       <guid isPermaLink="false">https://dagster.io/blog/community-showcase-part-1</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
@@ -92,6 +85,13 @@
       <description>A complete guide with all the insights, tips, and some predictions for the data platform engineer, just like an Almanack provides, with practical information for daily life.</description>
       <guid isPermaLink="false">https://dagster.io/blog/the-dagster-almanack-operationalizing-data-orchestration</guid>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Community Showcase Part 2</title>
+      <link>https://dagster.io/blog/community-showcase-part-2</link>
+      <description>Some of the most interesting Dagster projects come from the community. This post highlights creative community-built applications.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/community-showcase-part-2</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Dagster Almanack: From Complexity to Composability</title>
