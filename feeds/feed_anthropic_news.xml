@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 20:16:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:03:00 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1885,6 +1885,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/redeploying-fable-5</guid>
       <category>Announcements</category>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
+      <link>https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</link>
+      <description>More details on Fable 5’s cyber safeguards and our jailbreak framework</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</guid>
+      <category>Announcements</category>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
