@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 18:08:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:50:32 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1901,6 +1901,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</guid>
       <category>Announcements</category>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</title>
+      <link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
+      <description>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/alberta-government-claude-cybersecurity</guid>
+      <category>Case Study</category>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
