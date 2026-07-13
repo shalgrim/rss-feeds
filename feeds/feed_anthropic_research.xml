@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 10:22:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 16:29:39 +0000</lastBuildDate>
     <item>
       <title>Frontier Red Team</title>
       <link>https://www.anthropic.com/research/team/frontier-red-team</link>
@@ -128,6 +128,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/off-switch-dual-use</guid>
       <category>Research</category>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jul 9, 2026Frontier Red TeamClaude plays robotics</title>
+      <link>https://www.anthropic.com/research/claude-plays-robotics</link>
+      <description>Jul 9, 2026Frontier Red TeamClaude plays robotics</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/claude-plays-robotics</guid>
+      <category>Research</category>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
