@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:24:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:25:36 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1941,6 +1941,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/hard-questions</guid>
       <category>Announcements</category>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic commits $10 million to Canadian AI research</title>
+      <link>https://www.anthropic.com/news/canadian-ai-research</link>
+      <description>Anthropic commits $10 million to Canadian AI research</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/canadian-ai-research</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
