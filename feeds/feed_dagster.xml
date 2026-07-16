@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 12:19:02 +0000</lastBuildDate>
-    <item>
-      <title>Monorepos, the hub-and-spoke model, and Copybara</title>
-      <link>https://dagster.io/blog/monorepos-the-hub-and-spoke-model-and-copybara</link>
-      <description>How we configure Copybara for bi-directional syncing to enable a hub-and-spoke model for Git repositories</description>
-      <guid isPermaLink="false">https://dagster.io/blog/monorepos-the-hub-and-spoke-model-and-copybara</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 14:59:08 +0000</lastBuildDate>
     <item>
       <title>Dagster 1.13: Octopus's Garden</title>
       <link>https://dagster.io/blog/dagster-1-13-octopuss-garden</link>
@@ -92,6 +85,13 @@
       <description>Some of the most interesting Dagster projects come from the community. This post highlights creative community-built applications.</description>
       <guid isPermaLink="false">https://dagster.io/blog/community-showcase-part-2</guid>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Classifying a Million Snowflake Columns in 9 Days, Solo, with Dagster</title>
+      <link>https://dagster.io/blog/classifying-a-million-snowflake-columns-in-9-days-solo-with-dagster</link>
+      <description>data governance. I built a tiered AI classification system, human review workflow, and the Dagster orchestration that ties it all together in production in nine days.</description>
+      <guid isPermaLink="false">https://dagster.io/blog/classifying-a-million-snowflake-columns-in-9-days-solo-with-dagster</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Prefect is Acquiring Dagster</title>
