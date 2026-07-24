@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 20:17:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 22:03:01 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -323,13 +323,6 @@
       <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What we’ve learned building cloud agents</title>
-      <link>https://cursor.com/blog/cloud-agent-lessons</link>
-      <guid isPermaLink="false">https://cursor.com/blog/cloud-agent-lessons</guid>
-      <category>research</category>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing organizations for Cursor Enterprise</title>
       <link>https://cursor.com/blog/organizations</link>
       <guid isPermaLink="false">https://cursor.com/blog/organizations</guid>
@@ -403,6 +396,13 @@
       <description>Our most intelligent model and the first we've built for more than software engineering.</description>
       <guid isPermaLink="false">https://cursor.com/blog/grok-4-5</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok 4.5 Model Card</title>
+      <link>https://cursor.com/blog/grok-4-5-model-card</link>
+      <guid isPermaLink="false">https://cursor.com/blog/grok-4-5-model-card</guid>
+      <category>research</category>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Agent swarms and the new model economics</title>
