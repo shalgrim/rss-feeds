@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 14:22:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:56:01 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -329,13 +329,6 @@
       <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Reward hacking is swamping model intelligence gains</title>
-      <link>https://cursor.com/blog/reward-hacking-coding-benchmarks</link>
-      <guid isPermaLink="false">https://cursor.com/blog/reward-hacking-coding-benchmarks</guid>
-      <category>research</category>
-      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How Notion used the Cursor SDK to embed coding agents</title>
       <link>https://cursor.com/blog/notion</link>
       <guid isPermaLink="false">https://cursor.com/blog/notion</guid>
@@ -359,8 +352,8 @@
     <item>
       <title>Introducing Grok 4.5</title>
       <link>https://cursor.com/blog/grok-4-5</link>
-      <description>Our most intelligent model and the first we've built for more than software engineering.</description>
       <guid isPermaLink="false">https://cursor.com/blog/grok-4-5</guid>
+      <category>research</category>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -417,6 +410,13 @@
       <guid isPermaLink="false">https://cursor.com/blog/how-cursor-router-works</guid>
       <category>research</category>
       <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Grok 4.6</title>
+      <link>https://cursor.com/blog/grok-4-6</link>
+      <description>Built for long-running agents and more ambitious interactive and visual work.</description>
+      <guid isPermaLink="false">https://cursor.com/blog/grok-4-6</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
