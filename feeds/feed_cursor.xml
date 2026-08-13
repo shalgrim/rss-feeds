@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 15:56:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 16:53:42 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -410,6 +410,13 @@
       <description>Built for long-running agents and more ambitious interactive and visual work.</description>
       <guid isPermaLink="false">https://cursor.com/blog/grok-4-6</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud agents start 3x faster with builds</title>
+      <link>https://cursor.com/blog/builds</link>
+      <guid isPermaLink="false">https://cursor.com/blog/builds</guid>
+      <category>product</category>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cursor earns AIUC-1 certification for agent security and reliability</title>
