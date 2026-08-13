@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 13:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 14:24:35 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -329,13 +329,6 @@
       <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How Notion used the Cursor SDK to embed coding agents</title>
-      <link>https://cursor.com/blog/notion</link>
-      <guid isPermaLink="false">https://cursor.com/blog/notion</guid>
-      <category>product</category>
-      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Build from anywhere with Cursor for iOS</title>
       <link>https://cursor.com/blog/ios-mobile-app</link>
       <description>Cursor is available as a native iOS app on your phone, now in public beta.</description>
@@ -417,6 +410,13 @@
       <description>Built for long-running agents and more ambitious interactive and visual work.</description>
       <guid isPermaLink="false">https://cursor.com/blog/grok-4-6</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cursor earns AIUC-1 certification for agent security and reliability</title>
+      <link>https://cursor.com/blog/aiuc-1</link>
+      <guid isPermaLink="false">https://cursor.com/blog/aiuc-1</guid>
+      <category>company</category>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
