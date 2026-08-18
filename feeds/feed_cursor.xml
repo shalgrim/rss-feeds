@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 16:26:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:22:19 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -331,8 +331,8 @@
     <item>
       <title>Agent swarms and the new model economics</title>
       <link>https://cursor.com/blog/agent-swarm-model-economics</link>
-      <description>We compared old and new agent swarms building SQLite from scratch and found that better coordination delivers similar quality at a fraction of the cost.</description>
       <guid isPermaLink="false">https://cursor.com/blog/agent-swarm-model-economics</guid>
+      <category>research</category>
       <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -415,7 +415,6 @@
       <title>Git at any scale</title>
       <link>https://cursor.com/blog/git-at-any-scale</link>
       <guid isPermaLink="false">https://cursor.com/blog/git-at-any-scale</guid>
-      <category>research</category>
       <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
