@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:53:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:24:55 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1187,7 +1187,7 @@
       <link>https://www.anthropic.com/news/economic-futures-uk-europe</link>
       <description>Launching the Anthropic Economic Futures Programme in the UK and Europe</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/economic-futures-uk-europe</guid>
-      <category>Economic Research</category>
+      <category>Economics</category>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1887,19 +1887,19 @@
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Claude Sonnet 5</title>
-      <link>https://www.anthropic.com/news/claude-sonnet-5</link>
-      <description>Introducing Claude Sonnet 5</description>
-      <guid isPermaLink="false">https://www.anthropic.com/news/claude-sonnet-5</guid>
-      <category>Product</category>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Redeploying Fable 5</title>
       <link>https://www.anthropic.com/news/redeploying-fable-5</link>
       <description>Redeploying Fable 5</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/redeploying-fable-5</guid>
       <category>Announcements</category>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Sonnet 5</title>
+      <link>https://www.anthropic.com/news/claude-sonnet-5</link>
+      <description>Introducing Claude Sonnet 5</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-sonnet-5</guid>
+      <category>Product</category>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1935,19 +1935,19 @@
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>UST is bringing Claude to physical AI</title>
-      <link>https://www.anthropic.com/news/ust-claude</link>
-      <description>UST is bringing Claude to physical AI</description>
-      <guid isPermaLink="false">https://www.anthropic.com/news/ust-claude</guid>
-      <category>Case Study</category>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Inviting hard questions</title>
       <link>https://www.anthropic.com/news/hard-questions</link>
       <description>Inviting hard questions</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/hard-questions</guid>
       <category>Announcements</category>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UST is bringing Claude to physical AI</title>
+      <link>https://www.anthropic.com/news/ust-claude</link>
+      <description>UST is bringing Claude to physical AI</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/ust-claude</guid>
+      <category>Case Study</category>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1995,7 +1995,7 @@
       <link>https://www.anthropic.com/news/economic-futures-research-fund-agenda</link>
       <description>A research agenda for the Economic Futures Research Fund</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/economic-futures-research-fund-agenda</guid>
-      <category>Economic Research</category>
+      <category>Economics</category>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2045,6 +2045,22 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</guid>
       <category>Product</category>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Claude’s text watermark works</title>
+      <link>https://www.anthropic.com/news/claude-text-watermark</link>
+      <description>How Claude’s text watermark works</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-text-watermark</guid>
+      <category>Announcements</category>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Funding better evaluations of AI’s impact on wellbeing</title>
+      <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
+      <description>Funding better evaluations of AI’s impact on wellbeing</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/wellbeing-research-grants</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
