@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:51:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:54:44 +0000</lastBuildDate>
     <item>
       <title>Frontier Red Team</title>
       <link>https://www.anthropic.com/research/team/frontier-red-team</link>
@@ -64,14 +64,6 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/global-workspace</guid>
       <category>Research</category>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jul 8, 2026AlignmentAn off switch for dual-use knowledge in AI models</title>
-      <link>https://www.anthropic.com/research/off-switch-dual-use</link>
-      <description>Jul 8, 2026AlignmentAn off switch for dual-use knowledge in AI models</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/off-switch-dual-use</guid>
-      <category>Research</category>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Jul 9, 2026Frontier Red TeamClaude plays robotics</title>
@@ -144,6 +136,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/Claude-accelerates-protein-design</guid>
       <category>Research</category>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude</title>
+      <link>https://www.anthropic.com/research/enabling-independent-research</link>
+      <description>Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/enabling-independent-research</guid>
+      <category>Research</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
