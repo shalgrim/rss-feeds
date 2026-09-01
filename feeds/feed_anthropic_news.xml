@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:29:00 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -2085,6 +2085,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
       <category></category>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Developing Enterprise Frontier Safeguards with our customers</title>
+      <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
+      <description>Developing Enterprise Frontier Safeguards with our customers</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
