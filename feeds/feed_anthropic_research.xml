@@ -13,7 +13,7 @@
       <link>https://anthropic.com/research/feed_anthropic_research.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 18:46:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:20:59 +0000</lastBuildDate>
     <item>
       <title>Frontier Red Team</title>
       <link>https://www.anthropic.com/research/team/frontier-red-team</link>
@@ -48,14 +48,6 @@
       <description>Alignment</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/alignment</guid>
       <category>Research</category>
-    </item>
-    <item>
-      <title>Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude</title>
-      <link>https://www.anthropic.com/research/discovering-cryptographic-weaknesses</link>
-      <description>Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/discovering-cryptographic-weaknesses</guid>
-      <category>Research</category>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ScienceAug 10, 2026Learning more about Claude's mathematical capabilitiesAn unreleased research version of Claude has made strides on a problem related to the Riemann hypothesis.</title>
@@ -128,6 +120,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</guid>
       <category>Research</category>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling</title>
+      <link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
+      <description>Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</guid>
+      <category>Research</category>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
