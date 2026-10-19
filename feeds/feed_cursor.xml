@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 11:58:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:32:05 +0000</lastBuildDate>
     <item>
       <title>Prompt design</title>
       <link>https://cursor.com/blog/prompt-design</link>
@@ -359,12 +359,6 @@
       <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>IMDEX uses Cursor to build integrated subsurface data and analytics platform in months, not years</title>
-      <link>https://cursor.com/blog/imdex</link>
-      <guid isPermaLink="false">https://cursor.com/blog/imdex</guid>
-      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Nokia analyzes 50M+ lines of code in two weeks with Cursor</title>
       <link>https://cursor.com/blog/nokia</link>
       <guid isPermaLink="false">https://cursor.com/blog/nokia</guid>
@@ -409,6 +403,12 @@
       <guid isPermaLink="false">https://cursor.com/blog/improved-token-efficiency</guid>
       <category>research</category>
       <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navan cuts a month-long migration down to a week, without freezing the codebase</title>
+      <link>https://cursor.com/blog/navan</link>
+      <guid isPermaLink="false">https://cursor.com/blog/navan</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
